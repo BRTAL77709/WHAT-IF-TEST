@@ -1,0 +1,14 @@
+# Generated deliverables remain local and are distributed through Releases.
+deliverables/
+*.mp4
+*.wav
+*.blend
+*.blend1
+*.zip
+__pycache__/
+*.pyc
+WHAT_IF_MONEY_GREW_ON_TREES/renders/
+WHAT_IF_MONEY_GREW_ON_TREES/scenes/
+WHAT_IF_MONEY_GREW_ON_TREES/audio/
+WHAT_IF_MONEY_GREW_ON_TREES/assets/
+WHAT_IF_MONEY_GREW_ON_TREES/reports/

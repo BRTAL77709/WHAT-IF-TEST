@@ -1,0 +1,96 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Subtitle,DejaVu Sans,43,&H00F5F5EF,&H000000FF,&H00150F09,&H99150F09,-1,0,0,0,100,100,0,0,1,2.5,1,2,80,80,210,1
+Style: Counter,DejaVu Sans,75,&H009EEB7A,&H000000FF,&H0020170A,&HAA20170A,-1,0,0,0,100,100,0,0,3,15,0,8,40,40,470,1
+Style: Small,DejaVu Sans,25,&H00E2E8DA,&H000000FF,&H0020170A,&HAA20170A,-1,0,0,0,100,100,0,0,1,2,0,8,50,50,575,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.65,0:00:02.78,Subtitle,,0,0,0,,What if money actually grew on trees?
+Dialogue: 0,0:00:07.65,0:00:09.57,Subtitle,,0,0,0,,At first, everyone would think
+Dialogue: 0,0:00:09.79,0:00:11.22,Subtitle,,0,0,0,,they had just become rich.
+Dialogue: 0,0:00:15.65,0:00:17.29,Subtitle,,0,0,0,,Then every tree on Earth
+Dialogue: 0,0:00:17.51,0:00:19.36,Subtitle,,0,0,0,,starts producing cash.
+Dialogue: 0,0:00:23.65,0:00:26.28,Subtitle,,0,0,0,,Suddenly, almost everyone has more money
+Dialogue: 0,0:00:26.50,0:00:27.98,Subtitle,,0,0,0,,than they can spend.
+Dialogue: 0,0:00:31.65,0:00:33.12,Subtitle,,0,0,0,,But there is one problem.
+Dialogue: 0,0:00:33.34,0:00:35.45,Subtitle,,0,0,0,,More money does not mean more food,
+Dialogue: 0,0:00:35.67,0:00:37.53,Subtitle,,0,0,0,,houses, or resources.
+Dialogue: 0,0:00:39.65,0:00:41.56,Subtitle,,0,0,0,,As cash becomes unlimited,
+Dialogue: 0,0:00:41.78,0:00:44.15,Subtitle,,0,0,0,,prices could rise faster and faster.
+Dialogue: 0,0:00:47.65,0:00:50.17,Subtitle,,0,0,0,,Eventually, those piles of money
+Dialogue: 0,0:00:50.39,0:00:52.18,Subtitle,,0,0,0,,might barely buy anything.
+Dialogue: 0,0:00:55.65,0:00:57.96,Subtitle,,0,0,0,,Because real wealth is not just money.
+Dialogue: 0,0:00:58.18,0:01:00.63,Subtitle,,0,0,0,,It is the things people can actually produce.
+Dialogue: 0,0:01:04.65,0:01:06.55,Subtitle,,0,0,0,,The richest person in this world
+Dialogue: 0,0:01:06.77,0:01:08.98,Subtitle,,0,0,0,,might still be unable to buy dinner.
+Dialogue: 0,0:01:12.65,0:01:14.80,Subtitle,,0,0,0,,Would you still want money to grow on trees?
+Dialogue: 0,0:01:15.02,0:01:16.51,Subtitle,,0,0,0,,Tell us: yes or no?
+Dialogue: 0,0:00:07.00,0:00:07.17,Counter,,0,0,0,,$0
+Dialogue: 0,0:00:07.17,0:00:07.33,Counter,,0,0,0,,$4,561
+Dialogue: 0,0:00:07.33,0:00:07.50,Counter,,0,0,0,,$12,036
+Dialogue: 0,0:00:07.50,0:00:07.67,Counter,,0,0,0,,$21,234
+Dialogue: 0,0:00:07.67,0:00:07.83,Counter,,0,0,0,,$31,764
+Dialogue: 0,0:00:07.83,0:00:08.00,Counter,,0,0,0,,$43,413
+Dialogue: 0,0:00:08.00,0:00:08.17,Counter,,0,0,0,,$56,036
+Dialogue: 0,0:00:08.17,0:00:08.33,Counter,,0,0,0,,$69,534
+Dialogue: 0,0:00:08.33,0:00:08.50,Counter,,0,0,0,,$83,827
+Dialogue: 0,0:00:08.50,0:00:08.67,Counter,,0,0,0,,$98,855
+Dialogue: 0,0:00:08.67,0:00:08.83,Counter,,0,0,0,,$114,567
+Dialogue: 0,0:00:08.83,0:00:09.00,Counter,,0,0,0,,$130,922
+Dialogue: 0,0:00:09.00,0:00:09.17,Counter,,0,0,0,,$147,882
+Dialogue: 0,0:00:09.17,0:00:09.33,Counter,,0,0,0,,$165,418
+Dialogue: 0,0:00:09.33,0:00:09.50,Counter,,0,0,0,,$183,502
+Dialogue: 0,0:00:09.50,0:00:09.67,Counter,,0,0,0,,$202,111
+Dialogue: 0,0:00:09.67,0:00:09.83,Counter,,0,0,0,,$221,223
+Dialogue: 0,0:00:09.83,0:00:10.00,Counter,,0,0,0,,$240,819
+Dialogue: 0,0:00:10.00,0:00:10.17,Counter,,0,0,0,,$260,882
+Dialogue: 0,0:00:10.17,0:00:10.33,Counter,,0,0,0,,$281,396
+Dialogue: 0,0:00:10.33,0:00:10.50,Counter,,0,0,0,,$302,346
+Dialogue: 0,0:00:10.50,0:00:10.67,Counter,,0,0,0,,$323,720
+Dialogue: 0,0:00:10.67,0:00:10.83,Counter,,0,0,0,,$345,505
+Dialogue: 0,0:00:10.83,0:00:11.00,Counter,,0,0,0,,$367,690
+Dialogue: 0,0:00:11.00,0:00:11.17,Counter,,0,0,0,,$390,264
+Dialogue: 0,0:00:11.17,0:00:11.33,Counter,,0,0,0,,$413,217
+Dialogue: 0,0:00:11.33,0:00:11.50,Counter,,0,0,0,,$436,541
+Dialogue: 0,0:00:11.50,0:00:11.67,Counter,,0,0,0,,$460,227
+Dialogue: 0,0:00:11.67,0:00:11.83,Counter,,0,0,0,,$484,266
+Dialogue: 0,0:00:11.83,0:00:12.00,Counter,,0,0,0,,$508,651
+Dialogue: 0,0:00:12.00,0:00:12.17,Counter,,0,0,0,,$533,375
+Dialogue: 0,0:00:12.17,0:00:12.33,Counter,,0,0,0,,$558,430
+Dialogue: 0,0:00:12.33,0:00:12.50,Counter,,0,0,0,,$583,811
+Dialogue: 0,0:00:12.50,0:00:12.67,Counter,,0,0,0,,$609,512
+Dialogue: 0,0:00:12.67,0:00:12.83,Counter,,0,0,0,,$635,526
+Dialogue: 0,0:00:12.83,0:00:13.00,Counter,,0,0,0,,$661,848
+Dialogue: 0,0:00:13.00,0:00:13.17,Counter,,0,0,0,,$688,472
+Dialogue: 0,0:00:13.17,0:00:13.33,Counter,,0,0,0,,$715,394
+Dialogue: 0,0:00:13.33,0:00:13.50,Counter,,0,0,0,,$742,608
+Dialogue: 0,0:00:13.50,0:00:13.67,Counter,,0,0,0,,$770,111
+Dialogue: 0,0:00:13.67,0:00:13.83,Counter,,0,0,0,,$797,897
+Dialogue: 0,0:00:13.83,0:00:14.00,Counter,,0,0,0,,$825,962
+Dialogue: 0,0:00:14.00,0:00:14.17,Counter,,0,0,0,,$854,303
+Dialogue: 0,0:00:14.17,0:00:14.33,Counter,,0,0,0,,$882,914
+Dialogue: 0,0:00:14.33,0:00:14.50,Counter,,0,0,0,,$911,794
+Dialogue: 0,0:00:14.50,0:00:14.67,Counter,,0,0,0,,$940,936
+Dialogue: 0,0:00:14.67,0:00:14.83,Counter,,0,0,0,,$970,340
+Dialogue: 0,0:00:14.83,0:00:15.00,Counter,,0,0,0,,$1,000,000
+Dialogue: 0,0:00:07.00,0:00:15.00,Small,,0,0,0,,CASH HARVESTED
+Dialogue: 0,0:00:15.00,0:00:18.00,Counter,,0,0,0,,$1 MILLION
+Dialogue: 0,0:00:18.00,0:00:20.50,Counter,,0,0,0,,$100 MILLION
+Dialogue: 0,0:00:20.50,0:00:23.00,Counter,,0,0,0,,$1 BILLION
+Dialogue: 0,0:00:23.00,0:00:31.00,Counter,,0,0,0,,{\fs44}MORE CASH / SAME GOODS
+Dialogue: 0,0:00:31.00,0:00:33.00,Counter,,0,0,0,,BREAD  $2
+Dialogue: 0,0:00:33.00,0:00:36.00,Counter,,0,0,0,,BREAD  $20
+Dialogue: 0,0:00:36.00,0:00:39.00,Counter,,0,0,0,,BREAD  $200
+Dialogue: 0,0:00:39.00,0:00:41.00,Counter,,0,0,0,,$2
+Dialogue: 0,0:00:41.00,0:00:43.00,Counter,,0,0,0,,$20
+Dialogue: 0,0:00:43.00,0:00:45.00,Counter,,0,0,0,,$200
+Dialogue: 0,0:00:45.00,0:00:47.00,Counter,,0,0,0,,$2,000
+Dialogue: 0,0:00:47.00,0:00:55.00,Counter,,0,0,0,,CASH ≠ VALUE
+Dialogue: 0,0:00:55.00,0:01:04.00,Counter,,0,0,0,,{\fs44}FOOD  +  HOMES  +  WORK
+Dialogue: 0,0:01:04.00,0:01:12.00,Counter,,0,0,0,,DINNER: SOLD OUT
+Dialogue: 0,0:00:39.00,0:00:47.00,Small,,0,0,0,,ILLUSTRATIVE PRICES — NOT A FORECAST
