@@ -1,0 +1,134 @@
+{
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend": {
+    "bytes": 102033480,
+    "sha256": "d563bcf9dafa5e79d2e5ead71cab753eb42e09d09832d8d80708bcac07d07183"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/final/WHAT_IF_MONEY_GREW_ON_TREES_V3_DOWNLOAD.mp4": {
+    "bytes": 19820517,
+    "sha256": "a61b14bc672683a04c075a409a770c61cb3b3ef575e79709a66a7d6a779204bb"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/final/WHAT_IF_MONEY_GREW_ON_TREES_V3.mp4": {
+    "bytes": 63804547,
+    "sha256": "1f758e17b4c5bea1a53646d42744fba2b8d3e621aeaa069ce6188d963d8f3e44"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/subtitles/subtitles.ass": {
+    "bytes": 2665,
+    "sha256": "7c9c1f22ff9c8b72ee6f042770815ba89eae9f0e18a0505a4d375128b8e57fe5"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/subtitles/subtitles.srt": {
+    "bytes": 1276,
+    "sha256": "22d6b0288d8475d345b9198fbf7fda4f96e6b4a32797cd9557dff6a2b9ccd338"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/subtitles/narration.txt": {
+    "bytes": 614,
+    "sha256": "195cd87543580439a6d4a89a7b188d87d314be711582dc43a2c8ee22321b51c4"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/audio/V2_ORIGINAL_SOUNDTRACK.m4a": {
+    "bytes": 1942159,
+    "sha256": "4473765dc30d5b265a5d283ec7be20251104691d86db0c1e2d9fb79681f50f48"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/repair.py": {
+    "bytes": 15066,
+    "sha256": "9ab46017b507f3100be0e9bcdb7b2c79848328634e9466c858c887a5f2a9dbda"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/plan_motion.py": {
+    "bytes": 5328,
+    "sha256": "4b55446705dd2d8b0deb40e4f9f92eaa4ade5d8d27077f5e149a5adac508c716"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/render.py": {
+    "bytes": 430,
+    "sha256": "06be35f86b41d2442d2ffefeac8ef3a14af38973745adf39a0dd5986e3aea46f"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/camera_clearance.py": {
+    "bytes": 1786,
+    "sha256": "c49cfc46a937a39381bb42033b545935e211a9a3ed81cb711e275fbf29ae42c0"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/review_assets.py": {
+    "bytes": 2813,
+    "sha256": "e55c0a27e8ea74d8b1b819968d62210a7d9ef39a4269f7b26147d4c304562711"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/final_report.py": {
+    "bytes": 8195,
+    "sha256": "0812e3f4d5fe2e058320cb1da998eff2e53651220dc43b674f978571ad1722e4"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/verify_frame_archive.py": {
+    "bytes": 1025,
+    "sha256": "d430fe8575a035de29a1cb179e17c65b3b0eed22010956e1035bdbd2a67b7790"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/spatial_audit.py": {
+    "bytes": 1902,
+    "sha256": "b6c1464dcc1bacfe7cf003475ba185b572e2edea89b34b7db2a7f44125014a95"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/archive_frames.py": {
+    "bytes": 649,
+    "sha256": "c7d7baf0f30fc1a70758f023fe612da754a134fae36e8d9c5a66b19d48a3220b"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/restore_frames.py": {
+    "bytes": 963,
+    "sha256": "2bc1782c45344e83d9c064b16dcbeff913e9b1ac5ea925cfc7d447b2c7903891"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/selective_render.py": {
+    "bytes": 1855,
+    "sha256": "aa67aa7163caa93412efef9c19f6f9b5b4912db3cf31a08ae2e6bc0946b84014"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/encode.py": {
+    "bytes": 1541,
+    "sha256": "11717c0caea681d85e1edd0091c7870a46de5008afe5d76382399a9ed6f69336"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/validate_scene.py": {
+    "bytes": 6593,
+    "sha256": "fab0102c8d7dba3d759066620c99ae18a235b96e0ff819ab5e8a30170ce31f5b"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/download_full_quality_master.py": {
+    "bytes": 1265,
+    "sha256": "be2615f50783db6f5cad9bfad6664a762c0411749b5c34da3090fe55374ddf69"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/qa.py": {
+    "bytes": 8782,
+    "sha256": "7d4fe05fd8c1912ca2b1e2b0d6683208a01991f62f46883a75633035a54459d1"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/checkpoint_backup.py": {
+    "bytes": 2305,
+    "sha256": "e32a5cd9b6a7d48a97965883130220c78a20e0e599b7d517c36ac104f23314b0"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/finish_production.py": {
+    "bytes": 995,
+    "sha256": "88d890a06a1e5ec803b3baa906427eb1e49f1de0ba9672b05ae0879fba8b5941"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/publish_delivery.py": {
+    "bytes": 4497,
+    "sha256": "71f059846aced96b15212f56962bc4ee3764f93a664692a65a3eff8312e37f9e"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/publish_recovery_blobs.py": {
+    "bytes": 4723,
+    "sha256": "8f2d88cbb59ddb6726d81fdac7ef327979eae91f7d330495bca5722f569e2a8d"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/audit.py": {
+    "bytes": 2723,
+    "sha256": "40199e0963604d7eade70f624ef961d82152ee3be00bd9ac524c72c86bb37a0e"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/github_io.py": {
+    "bytes": 3120,
+    "sha256": "42cc6d8cf3610b6c39c3162c4d8c72bffbdc8954231f171196958fa2f9dd2ab0"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/publish_checkpoint.py": {
+    "bytes": 1883,
+    "sha256": "75dac5e95a2af7811e2468c98e5c791751a7e0ebf1d99bc65c79bb220a9d4158"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/run_render.py": {
+    "bytes": 1519,
+    "sha256": "31c575a0b38e77c35c56552b480335aa600ca1439db56cd11689308e788700ee"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/recover_checkpoint.py": {
+    "bytes": 1850,
+    "sha256": "8845351bde932d77b989684b90b67b4d25ce2df89b9977e7b4ec7a30c7c46bea"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/repair_scene_exports.py": {
+    "bytes": 2279,
+    "sha256": "6bbdb39a85d86dbdeffbbad19f27ab3a85c661bc3ce046738b408b4788ac9430"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/publish_sources.py": {
+    "bytes": 1769,
+    "sha256": "50fea9cd9d33990fdf25627f3bf4be50e20be07cb8d314fa64b3553d4c81fb4d"
+  }
+}

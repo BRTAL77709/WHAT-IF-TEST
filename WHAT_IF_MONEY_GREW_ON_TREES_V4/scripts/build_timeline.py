@@ -1,0 +1,17 @@
+from pathlib import Path
+import json,re,csv,hashlib,shutil,subprocess
+R=Path(__file__).resolve().parents[1];V3=R.parent/'WHAT_IF_MONEY_GREW_ON_TREES_V3'
+def sec(s):
+ h,m,t=s.replace(',','.').split(':');return int(h)*3600+int(m)*60+float(t)
+cues=[]
+for block in (R/'subtitles/subtitles.srt').read_text().strip().split('\n\n'):
+ lines=block.splitlines();a,b=lines[1].split(' --> ');cues.append({'id':int(lines[0]),'start':sec(a),'end':sec(b),'text':' '.join(lines[2:])})
+foley=json.loads((R.parent/'V2/reports/foley_events.json').read_text());rigs=json.loads((V3/'reports/rig_map.json').read_text());shots=[(0,'Cash growth macro',[0],['V2 Hero banknote GRIP CORNER']),(2,'Discovery and collection',[0],['V2 Hero banknote GRIP CORNER']),(8,'Harvester approach and collection',[1],['V2 Harvester banknote GRIP CORNER']),(16,'City cash bloom',[0,1,3,4,5,6],['V2 Money foliage']),(19.5,'City money rush',[0,1,5,6],['V2 Offered cash grip']),(24,'Limited market inventory',[0,1,2,5,6],['V2 Bread inventory']),(32,'Goods versus nominal money',[0,2],['V2 Bread inventory']),(40,'Illustrative price inflation',[0,2],['V2 Physical price flip rig']),(47,'Price reaction',[0],['V2 Offered cash grip']),(48,'Banknotes versus one loaf',[0,2],['V2 Bread inventory']),(52.5,'Customer reaction and loaf recovery',[0,2],['V2 Bread inventory']),(56,'Growing food',[3],['V2 Hand-picked crop']),(58.6,'Building homes',[4],['V2 Placed housing beam']),(61.2,'Delivery',[4],['V2 Delivery van ROOT']),(64,'Hungry customer, empty counter',[0,2],['V2 Bread inventory']),(68,'Actual depleted display bay',[],['Empty lower-left bread location']),(69.2,'Customer reaction',[0,2],['V2 Offered cash grip']),(72,'Concluding question',[0,3,4],['V2 Final tree fall'])]
+rows=[]
+for k in range(2340):
+ t=k/30;shot=max(i for i,s in enumerate(shots) if s[0]<=t);action=shots[shot];active=[c for c in cues if c['start']<=t<c['end']];ending=72.2<=t<77.6
+ rows.append({'frame':k+1,'timestamp_seconds':round(t,9),'scene_id':min(10,int(t//8)+1),'shot_id':shot+1,'camera_id':'V2 Perspective story camera','narration_segment_ids':'|'.join(str(c['id']) for c in active),'original_spoken_words':' | '.join(c['text'] for c in active),'subtitle_segment_ids':'|'.join(str(c['id']) for c in active),'intended_visual_action':action[1],'character_ids':'|'.join(str(i) for i in action[2]),'relevant_props':'|'.join(action[3]),'audio_events':'|'.join(e['type'] for e in foley if abs(e['time']-t)<1/60),'ending_graphic_expected':ending,'render_output':str(R/'renders'/f'frame_{k+1:04}.png'),'source_frame':str(V3/'renders'/f'frame_{k+1:04}.png')})
+with open(R/'reports/MASTER_TIMELINE.csv','w') as f:w=csv.DictWriter(f,fieldnames=rows[0]);w.writeheader();w.writerows(rows)
+(R/'reports/timeline_definition.json').write_text(json.dumps({'fps':30,'frames':2340,'duration':78,'frame_to_seconds':'(frame-1)/30','subtitle_source_sha256':hashlib.sha256((R/'subtitles/subtitles.srt').read_bytes()).hexdigest(),'narration_cues':cues,'shots':[{'start':x[0],'action':x[1],'characters':x[2],'props':x[3]} for x in shots],'ending_graphic_interval':[72.2,77.6],'ending_dialogue_interval':[72.25,75.565],'ending_at_18_seconds':'Not reproduced in the actual V3 master; decoded-frame OCR and subtitle source evidence retained. No arbitrary scene reorder performed.'},indent=2))
+subprocess.run(['ffmpeg','-v','error','-y','-i',str(V3/'final/WHAT_IF_MONEY_GREW_ON_TREES_V3.mp4'),'-map','0:a:0','-c','copy',str(R/'audio/V3_ORIGINAL_SOUNDTRACK.m4a')],check=True)
+print('MASTER_TIMELINE_READY',len(rows),len(shots),len(cues),flush=True)
