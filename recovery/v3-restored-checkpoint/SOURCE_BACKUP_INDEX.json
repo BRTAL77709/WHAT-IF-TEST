@@ -1,0 +1,46 @@
+{
+  "files": [
+    {
+      "file": "V3_RECOVERY_SOURCE.zip",
+      "bytes": 15981515,
+      "sha256": "3bd2a3d5b97f331211bf4ab70d9d0ea7d78cecf0896c47e4941caf9c0d0b281a",
+      "parts": [
+        {
+          "path": "recovery/v3-restored-checkpoint/V3_RECOVERY_SOURCE.zip.part001",
+          "bytes": 15981515,
+          "sha256": "3bd2a3d5b97f331211bf4ab70d9d0ea7d78cecf0896c47e4941caf9c0d0b281a",
+          "file_url": "https://github.com/BRTAL77709/WHAT-IF-TEST/blob/what-if-v3-motion-repair/recovery/v3-restored-checkpoint/V3_RECOVERY_SOURCE.zip.part001",
+          "download_url": "https://raw.githubusercontent.com/BRTAL77709/WHAT-IF-TEST/what-if-v3-motion-repair/recovery/v3-restored-checkpoint/V3_RECOVERY_SOURCE.zip.part001",
+          "http": 200,
+          "byte_match": true
+        }
+      ]
+    },
+    {
+      "file": "V3_RECOVERY_BLENDER.zip",
+      "bytes": 24960915,
+      "sha256": "1d636761ee47ac3b40022f531fe9f95a169297558e1701a5de60ccaafa5f520b",
+      "parts": [
+        {
+          "path": "recovery/v3-restored-checkpoint/V3_RECOVERY_BLENDER.zip.part001",
+          "bytes": 19922944,
+          "sha256": "cc9f6cdf558589ad74782fa9d3d443ff59598d804ed186a185dd6dcec07ac209",
+          "file_url": "https://github.com/BRTAL77709/WHAT-IF-TEST/blob/what-if-v3-motion-repair/recovery/v3-restored-checkpoint/V3_RECOVERY_BLENDER.zip.part001",
+          "download_url": "https://raw.githubusercontent.com/BRTAL77709/WHAT-IF-TEST/what-if-v3-motion-repair/recovery/v3-restored-checkpoint/V3_RECOVERY_BLENDER.zip.part001",
+          "http": 200,
+          "byte_match": true
+        },
+        {
+          "path": "recovery/v3-restored-checkpoint/V3_RECOVERY_BLENDER.zip.part002",
+          "bytes": 5037971,
+          "sha256": "19a7f39d66c7670584575d2d9325f59640af5a74acf9568a780e1efcbef8b745",
+          "file_url": "https://github.com/BRTAL77709/WHAT-IF-TEST/blob/what-if-v3-motion-repair/recovery/v3-restored-checkpoint/V3_RECOVERY_BLENDER.zip.part002",
+          "download_url": "https://raw.githubusercontent.com/BRTAL77709/WHAT-IF-TEST/what-if-v3-motion-repair/recovery/v3-restored-checkpoint/V3_RECOVERY_BLENDER.zip.part002",
+          "http": 200,
+          "byte_match": true
+        }
+      ]
+    }
+  ],
+  "restore": "Download parts in numerical order, concatenate to recover the named file, verify its whole SHA-256. The lossless frame archive restores the exact RGB pixel hashes in recovery_checkpoint.json using scripts/restore_frames.py. Opaque alpha restored to 255. PNG compressed bytes can differ."
+}
