@@ -1,0 +1,25 @@
+{
+  "file": "V4_VALIDATED_SOURCE.zip",
+  "bytes": 38683952,
+  "sha256": "c99ff562eb04d57f9576336c261c17eadd27d91d8ad7c569d8557dda09ee7a7f",
+  "parts": [
+    {
+      "path": "recovery/v4-validated-source/V4_VALIDATED_SOURCE.zip.part001",
+      "bytes": 19922944,
+      "sha256": "481ef2ea798b10d7440434c5e7b42a4106a16b240b0a56faaaa9cc3e5d4cdd7d",
+      "file_url": "https://github.com/BRTAL77709/WHAT-IF-TEST/blob/what-if-v4-continuity-repair/recovery/v4-validated-source/V4_VALIDATED_SOURCE.zip.part001",
+      "download_url": "https://raw.githubusercontent.com/BRTAL77709/WHAT-IF-TEST/what-if-v4-continuity-repair/recovery/v4-validated-source/V4_VALIDATED_SOURCE.zip.part001",
+      "http": 200,
+      "byte_match": true
+    },
+    {
+      "path": "recovery/v4-validated-source/V4_VALIDATED_SOURCE.zip.part002",
+      "bytes": 18761008,
+      "sha256": "8e21c562fc8f7ea82189dc1a624960e7144edba6e94097d62722cf7946102cac",
+      "file_url": "https://github.com/BRTAL77709/WHAT-IF-TEST/blob/what-if-v4-continuity-repair/recovery/v4-validated-source/V4_VALIDATED_SOURCE.zip.part002",
+      "download_url": "https://raw.githubusercontent.com/BRTAL77709/WHAT-IF-TEST/what-if-v4-continuity-repair/recovery/v4-validated-source/V4_VALIDATED_SOURCE.zip.part002",
+      "http": 200,
+      "byte_match": true
+    }
+  ]
+}
