@@ -1,0 +1,7 @@
+{
+  "lossless_rgb_verified_frames": 2340,
+  "bytes": 1733521870,
+  "sha256": "c431e32e00b52601e3b84ced99fbe9cbfeb914aa6a6cc7db41bf3b0cd32e79a2",
+  "all_rendered_pixels_match": true,
+  "png_byte_encoding": "Restored PNG bytes may differ; native RGB samples are verified identical and alpha remains opaque."
+}

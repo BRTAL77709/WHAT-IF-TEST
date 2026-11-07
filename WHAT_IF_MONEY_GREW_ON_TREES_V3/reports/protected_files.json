@@ -1,0 +1,210 @@
+{
+  "V2/audio/voice_10_1.wav": {
+    "bytes": 70442,
+    "sha256": "837c01fe9d149f0b8d3d3ede9d41f6eeed0109d932aebd873df76a44a2564311"
+  },
+  "V2/audio/voice_04_1.wav": {
+    "bytes": 75084,
+    "sha256": "7d456a0cb596690b3b6c2e52b79a4ad658c8845d5ef8d36670993b5ed911f448"
+  },
+  "V2/audio/voice_03_1.wav": {
+    "bytes": 70924,
+    "sha256": "139f08c1220c899f63b15322bc80f949ee433b5c26a9220840817ad1e4e61adc"
+  },
+  "V2/audio/voice_08_2.wav": {
+    "bytes": 133930,
+    "sha256": "de6c0a8730404b775e149042b58ddea41e0460dd1800a9259ccbf2cc97ee1856"
+  },
+  "V2/audio/voice_09_1.wav": {
+    "bytes": 117548,
+    "sha256": "71e7344c7fadb7a7974eb91d474d7c221c307495f3f8dd6f09a193cb4b35ef4f"
+  },
+  "V2/audio/voice_02_2.wav": {
+    "bytes": 74060,
+    "sha256": "a702ad87646543c3aa808c204e542e8d1f3fa0334a4866c6c6519bdceef82b45"
+  },
+  "V2/audio/voice_05_2.wav": {
+    "bytes": 100236,
+    "sha256": "36f30bce58ada273d4b790dbd3f7c01c26d0ccec7425913e4189c1033b3291c2"
+  },
+  "V2/audio/foley.wav": {
+    "bytes": 7488044,
+    "sha256": "a0ada9fb3b00aa4c75e8e46fd5ef8e98c4a554429674ea6ecacd518c7f1b88c7"
+  },
+  "V2/audio/voice_06_1.wav": {
+    "bytes": 101292,
+    "sha256": "6f1a8e663dc874ed52bf2f30774e2ded935447032e161e0649bd989e03b3d660"
+  },
+  "V2/audio/music.wav": {
+    "bytes": 7488044,
+    "sha256": "f696f8c9df661df8b2eb3901ae2cac045666f56b2a61288ede2796c1cc4c90bf"
+  },
+  "V2/audio/voice_06_2.wav": {
+    "bytes": 61900,
+    "sha256": "214afa37fdb66bf3344744f359aacd55374805b82d2529706953a55997637067"
+  },
+  "V2/audio/voice_02_1.wav": {
+    "bytes": 83148,
+    "sha256": "dd076f02f8d0395856088b37106c59232e0f75e40e22c2afa73a590f4eaedf5a"
+  },
+  "V2/audio/narration.wav": {
+    "bytes": 7488044,
+    "sha256": "2618a3e7e097dcb76c9355c6ecb9635507541f6360adf4ed227b5dbb9c57e62a"
+  },
+  "V2/audio/voice_05_1.wav": {
+    "bytes": 98348,
+    "sha256": "7540bafd1d6d7b1a4cc0a94a7eb258a69d31333bfcb62bd027890c26088aa35d"
+  },
+  "V2/audio/voice_10_2.wav": {
+    "bytes": 77226,
+    "sha256": "783f5d2ac6af84b0282dfe7bca092a97c455d5a7a9a792064200038ad35b89c0"
+  },
+  "V2/audio/speech_timeline.json": {
+    "bytes": 4528,
+    "sha256": "c1813792eccdb7e3e4af6ee5f224a32b42de9012a95ff0feaf8002aa1ef64c09"
+  },
+  "V2/audio/voice_08_1.wav": {
+    "bytes": 96716,
+    "sha256": "16b98e6319fa5d57707f409c438938c6af3242d4a7e4a77b631f578e1a09c46d"
+  },
+  "V2/audio/voice_04_2.wav": {
+    "bytes": 84844,
+    "sha256": "c506159bf114e3869b4e13e4547ef0ff57b6a62ecbbeeb2e743f42764c420f8e"
+  },
+  "V2/audio/voice_01_2.wav": {
+    "bytes": 89420,
+    "sha256": "13442faefe9edb2b83834208abd506d157de3c7cd63ebe08c5b9b96c40e720ab"
+  },
+  "V2/audio/voice_01_1.wav": {
+    "bytes": 108748,
+    "sha256": "64dfcd02229870d9464174d9adc30d8396219d95394881537eaaba5b4c0590b1"
+  },
+  "V2/audio/mix.wav": {
+    "bytes": 14976044,
+    "sha256": "63e047a16c6e8bae610f91b002c1087af55e79384c7943b90a850d16519e45e2"
+  },
+  "V2/audio/VOICE_COMPARISON_V1_THEN_V2.wav": {
+    "bytes": 1154860,
+    "sha256": "1ef4cd7ef7051cbba6630fa4712406489a899fba06f36583e12237e198f6d939"
+  },
+  "V2/audio/voice_07_2.wav": {
+    "bytes": 58828,
+    "sha256": "fedf5724321200c5bec720123c1b85286922233ea0616a35cf26a2f53fe71318"
+  },
+  "V2/audio/voice_03_2.wav": {
+    "bytes": 88492,
+    "sha256": "e15f58a614ce579974de800f8f0c6c1de6877076f052cbf9c11ada74608b0cf3"
+  },
+  "V2/audio/voice_09_2.wav": {
+    "bytes": 67852,
+    "sha256": "941c4544fd2a22fcb2b30e31f07a4426c10fc934c0c44427d9f670928d307df9"
+  },
+  "V2/audio/voice_07_1.wav": {
+    "bytes": 105516,
+    "sha256": "7053565d11218702ebd282f010824a3ae17cbce74835b8de10340cb8ab8f6e12"
+  },
+  "V2/final/WHAT_IF_MONEY_GREW_ON_TREES_V2_EDITABLE.zip": {
+    "bytes": 24185027,
+    "sha256": "3b149728a5b09d204f3033e2ff7276c9ed380e14402f9b5a69ad2e1c1c2facd9"
+  },
+  "V2/final/WHAT_IF_MONEY_GREW_ON_TREES_V2.mp4": {
+    "bytes": 45914979,
+    "sha256": "329e114314980aa9a5c0db0ca88db6c84e8d1996da16bc493f0f5d4793fa64ce"
+  },
+  "V2/final/subtitles.ass": {
+    "bytes": 2665,
+    "sha256": "7c9c1f22ff9c8b72ee6f042770815ba89eae9f0e18a0505a4d375128b8e57fe5"
+  },
+  "V2/final/subtitles.srt": {
+    "bytes": 1276,
+    "sha256": "22d6b0288d8475d345b9198fbf7fda4f96e6b4a32797cd9557dff6a2b9ccd338"
+  },
+  "V2/final/WHAT_IF_MONEY_GREW_ON_TREES_V2_DOWNLOAD.mp4": {
+    "bytes": 18751354,
+    "sha256": "37f04ab73bda65fd33a294f86cb55bd557a52fd8f474f3a29217e23cd460b654"
+  },
+  "V2/final/WHAT_IF_MONEY_GREW_ON_TREES_V2_PROJECT.zip": {
+    "bytes": 47200371,
+    "sha256": "7187d86619f701223abe569ff9ce360950b1c2c06122ba459e103abf7f7f6db0"
+  },
+  "V2/final/WHAT_IF_MONEY_GREW_ON_TREES_V2_AUDIO.zip": {
+    "bytes": 23015366,
+    "sha256": "fddd21d1dbaa9bc440feb0b0a1e9bbe8eb7a8c95c2fcf93c042a6a1c391b4549"
+  },
+  "V2/final/narration.txt": {
+    "bytes": 614,
+    "sha256": "195cd87543580439a6d4a89a7b188d87d314be711582dc43a2c8ee22321b51c4"
+  },
+  "V2/blender/V2_CITY.blend": {
+    "bytes": 85823976,
+    "sha256": "8cbec61f1cd690319d0b2171b5168458d71a4e2379a6d697ec9588a6193e85e8"
+  },
+  "V2/blender/V2_TEST.blend": {
+    "bytes": 8963140,
+    "sha256": "c7ddce3eecf54ea23f57caab5af054d37da8f8de4c2b5d2040ed1e1c81dca805"
+  },
+  "V2/scripts/audio.py": {
+    "bytes": 5856,
+    "sha256": "36804b132a36656883ba13f29406852eab635ab34d06963cbf340b684ae7ffa3"
+  },
+  "V2/scripts/render.py": {
+    "bytes": 541,
+    "sha256": "eb604513718c4865a1d8ca1fcccf6686dfdbcad0e589feb63fcbaf61caa9b665"
+  },
+  "V2/scripts/publish.py": {
+    "bytes": 7178,
+    "sha256": "79b0c44445857594344b0112cb741820bd358989eff51ab6e5e600a8ba2d7430"
+  },
+  "V2/scripts/compress.py": {
+    "bytes": 1459,
+    "sha256": "5d1df2a4ed450f25dddd6498448aecdb56aa2d9586789b275e2aedfe69464398"
+  },
+  "V2/scripts/scan_joints.py": {
+    "bytes": 1591,
+    "sha256": "da7460fea71391ef68b429738da8e207e9410489f02426038ff7075be42375d8"
+  },
+  "V2/scripts/tts.py": {
+    "bytes": 2369,
+    "sha256": "1a0bb7cb71d4a2f2f8e8f927f9e748729aa43c005c63a9af8555f00e549537e1"
+  },
+  "V2/scripts/encode.py": {
+    "bytes": 2792,
+    "sha256": "e7f1ce8b14aafcf22db4d67b99a974e5bf41954967bfd3d0effb8e9eb86208e5"
+  },
+  "V2/scripts/check_contact.py": {
+    "bytes": 679,
+    "sha256": "ef60fd034791defa15f6097519b075672bfc4a6e872609d054dfbf575085d881"
+  },
+  "V2/scripts/qa.py": {
+    "bytes": 6149,
+    "sha256": "54b7249e4656f7ce8539f580508a3219b0aebe942252b6e9617e88ead656d7a6"
+  },
+  "V2/scripts/prepare_tts.py": {
+    "bytes": 732,
+    "sha256": "41c5aee19c7f3e4d5c1bef1e5702c564c7bab8212b1e7d1a2ebd4823e9feb7c6"
+  },
+  "V2/scripts/build.py": {
+    "bytes": 26245,
+    "sha256": "efb605fac973f257cb078270eb49e191646b302755006040153cfd6cb145ab4b"
+  },
+  "V2/scripts/run_render.py": {
+    "bytes": 2175,
+    "sha256": "995b8ceb5d480371cee7f46d254fe7e69786bebfda3914d572a57dec1d3d2034"
+  },
+  "V2/scripts/delivery_assets.py": {
+    "bytes": 6089,
+    "sha256": "8aace07cae670aa8ecd703060361603eb9ebc6ecd9f98413ed3427dba964b8e5"
+  },
+  "downloads/WHAT_IF_MONEY_GREW_ON_TREES.mp4": {
+    "bytes": 18459250,
+    "sha256": "172639604371f15d1c359eecf241865ae5afcd68c381b427fb794bd3318d50e4"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES/blender/MONEY_CITY.blend": {
+    "bytes": 115531776,
+    "sha256": "07b2b3bcf0c14be7d0624d63b3f56827cfc4d271723a18296c180666aee1d173"
+  },
+  "WHAT_IF_MONEY_GREW_ON_TREES/audio/final_mix.wav": {
+    "bytes": 14976044,
+    "sha256": "99d38097b67c94e69666879a1b3edfa33b9937ad1e1975c9749d1480c57d0555"
+  }
+}

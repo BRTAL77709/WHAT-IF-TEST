@@ -1,0 +1,2786 @@
+[
+  {
+    "object": "V2 Actor 0 ROOT",
+    "V2_max_frame_displacement_m": 0.1708999127149582,
+    "V3_max_frame_displacement_m": 0.1190011277794838,
+    "V3_worst_frame": 114
+  },
+  {
+    "object": "V2 Eye",
+    "V2_max_frame_displacement_m": 0.2801787555217743,
+    "V3_max_frame_displacement_m": 0.12119594216346741,
+    "V3_worst_frame": 114
+  },
+  {
+    "object": "V2 Eye.001",
+    "V2_max_frame_displacement_m": 0.27474460005760193,
+    "V3_max_frame_displacement_m": 0.12121923267841339,
+    "V3_worst_frame": 114
+  },
+  {
+    "object": "V2 Shin",
+    "V2_max_frame_displacement_m": 0.4119643270969391,
+    "V3_max_frame_displacement_m": 0.19928602874279022,
+    "V3_worst_frame": 78
+  },
+  {
+    "object": "V2 Thigh.001",
+    "V2_max_frame_displacement_m": 0.2334446758031845,
+    "V3_max_frame_displacement_m": 0.1262533962726593,
+    "V3_worst_frame": 297
+  },
+  {
+    "object": "V2 Shin.001",
+    "V2_max_frame_displacement_m": 0.3871598243713379,
+    "V3_max_frame_displacement_m": 0.16285865008831024,
+    "V3_worst_frame": 297
+  },
+  {
+    "object": "V2 Planted shoe.001",
+    "V2_max_frame_displacement_m": 0.4030301570892334,
+    "V3_max_frame_displacement_m": 0.1612706482410431,
+    "V3_worst_frame": 863
+  },
+  {
+    "object": "V2 Forearm",
+    "V2_max_frame_displacement_m": 0.32969287037849426,
+    "V3_max_frame_displacement_m": 0.20109829306602478,
+    "V3_worst_frame": 571
+  },
+  {
+    "object": "V2 Contact hand",
+    "V2_max_frame_displacement_m": 0.37320685386657715,
+    "V3_max_frame_displacement_m": 0.19837188720703125,
+    "V3_worst_frame": 330
+  },
+  {
+    "object": "V2 Upper arm.001",
+    "V2_max_frame_displacement_m": 0.28878194093704224,
+    "V3_max_frame_displacement_m": 0.409282386302948,
+    "V3_worst_frame": 1204
+  },
+  {
+    "object": "V2 Forearm.001",
+    "V2_max_frame_displacement_m": 0.3507482707500458,
+    "V3_max_frame_displacement_m": 0.39921602606773376,
+    "V3_worst_frame": 1204
+  },
+  {
+    "object": "V2 Contact hand.001",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.16870391368865967,
+    "V3_worst_frame": 571
+  },
+  {
+    "object": "V2 Actor 1 ROOT",
+    "V2_max_frame_displacement_m": 0.14827613532543182,
+    "V3_max_frame_displacement_m": 0.12645223736763,
+    "V3_worst_frame": 949
+  },
+  {
+    "object": "V2 Head.001",
+    "V2_max_frame_displacement_m": 0.17469832301139832,
+    "V3_max_frame_displacement_m": 0.12494488805532455,
+    "V3_worst_frame": 949
+  },
+  {
+    "object": "V2 Hair.001",
+    "V2_max_frame_displacement_m": 0.17469844222068787,
+    "V3_max_frame_displacement_m": 0.12494488805532455,
+    "V3_worst_frame": 949
+  },
+  {
+    "object": "V2 Eye.002",
+    "V2_max_frame_displacement_m": 0.17469832301139832,
+    "V3_max_frame_displacement_m": 0.12494499236345291,
+    "V3_worst_frame": 949
+  },
+  {
+    "object": "V2 Eye.003",
+    "V2_max_frame_displacement_m": 0.1746983379125595,
+    "V3_max_frame_displacement_m": 0.12494475394487381,
+    "V3_worst_frame": 949
+  },
+  {
+    "object": "V2 Thigh.002",
+    "V2_max_frame_displacement_m": 0.18341781198978424,
+    "V3_max_frame_displacement_m": 0.11572510749101639,
+    "V3_worst_frame": 1098
+  },
+  {
+    "object": "V2 Shin.002",
+    "V2_max_frame_displacement_m": 0.291937917470932,
+    "V3_max_frame_displacement_m": 0.17614704370498657,
+    "V3_worst_frame": 1099
+  },
+  {
+    "object": "V2 Planted shoe.002",
+    "V2_max_frame_displacement_m": 0.3173017203807831,
+    "V3_max_frame_displacement_m": 0.18759649991989136,
+    "V3_worst_frame": 1099
+  },
+  {
+    "object": "V2 Thigh.003",
+    "V2_max_frame_displacement_m": 0.18322458863258362,
+    "V3_max_frame_displacement_m": 0.11341734975576401,
+    "V3_worst_frame": 1003
+  },
+  {
+    "object": "V2 Shin.003",
+    "V2_max_frame_displacement_m": 0.296793669462204,
+    "V3_max_frame_displacement_m": 0.14773698151111603,
+    "V3_worst_frame": 283
+  },
+  {
+    "object": "V2 Planted shoe.003",
+    "V2_max_frame_displacement_m": 0.32106494903564453,
+    "V3_max_frame_displacement_m": 0.15498743951320648,
+    "V3_worst_frame": 789
+  },
+  {
+    "object": "V2 Forearm.002",
+    "V2_max_frame_displacement_m": 0.3336791396141052,
+    "V3_max_frame_displacement_m": 0.23769447207450867,
+    "V3_worst_frame": 933
+  },
+  {
+    "object": "V2 Contact hand.002",
+    "V2_max_frame_displacement_m": 0.27026042342185974,
+    "V3_max_frame_displacement_m": 0.3048887550830841,
+    "V3_worst_frame": 933
+  },
+  {
+    "object": "V2 Upper arm.003",
+    "V2_max_frame_displacement_m": 0.2966362535953522,
+    "V3_max_frame_displacement_m": 0.14978060126304626,
+    "V3_worst_frame": 1080
+  },
+  {
+    "object": "V2 Forearm.003",
+    "V2_max_frame_displacement_m": 0.3557303547859192,
+    "V3_max_frame_displacement_m": 0.17979790270328522,
+    "V3_worst_frame": 1080
+  },
+  {
+    "object": "V2 Contact hand.003",
+    "V2_max_frame_displacement_m": 0.3307614326477051,
+    "V3_max_frame_displacement_m": 0.16736169159412384,
+    "V3_worst_frame": 1080
+  },
+  {
+    "object": "V2 Actor 2 ROOT",
+    "V2_max_frame_displacement_m": 0.02492692321538925,
+    "V3_max_frame_displacement_m": 0.04168688878417015,
+    "V3_worst_frame": 784
+  },
+  {
+    "object": "V2 Head.002",
+    "V2_max_frame_displacement_m": 0.028671307489275932,
+    "V3_max_frame_displacement_m": 0.04211420565843582,
+    "V3_worst_frame": 784
+  },
+  {
+    "object": "V2 Hair.002",
+    "V2_max_frame_displacement_m": 0.028671307489275932,
+    "V3_max_frame_displacement_m": 0.04211638495326042,
+    "V3_worst_frame": 784
+  },
+  {
+    "object": "V2 Eye.004",
+    "V2_max_frame_displacement_m": 0.05478551611304283,
+    "V3_max_frame_displacement_m": 0.042266566306352615,
+    "V3_worst_frame": 785
+  },
+  {
+    "object": "V2 Eye.005",
+    "V2_max_frame_displacement_m": 0.054785292595624924,
+    "V3_max_frame_displacement_m": 0.04226662218570709,
+    "V3_worst_frame": 785
+  },
+  {
+    "object": "V2 Thigh.004",
+    "V2_max_frame_displacement_m": 0.04394218698143959,
+    "V3_max_frame_displacement_m": 0.06775525212287903,
+    "V3_worst_frame": 1017
+  },
+  {
+    "object": "V2 Shin.004",
+    "V2_max_frame_displacement_m": 0.07540655136108398,
+    "V3_max_frame_displacement_m": 0.09134373068809509,
+    "V3_worst_frame": 779
+  },
+  {
+    "object": "V2 Planted shoe.004",
+    "V2_max_frame_displacement_m": 0.09328249841928482,
+    "V3_max_frame_displacement_m": 0.10963016003370285,
+    "V3_worst_frame": 779
+  },
+  {
+    "object": "V2 Thigh.005",
+    "V2_max_frame_displacement_m": 0.032485008239746094,
+    "V3_max_frame_displacement_m": 0.055463582277297974,
+    "V3_worst_frame": 788
+  },
+  {
+    "object": "V2 Shin.005",
+    "V2_max_frame_displacement_m": 0.05218047276139259,
+    "V3_max_frame_displacement_m": 0.08982888609170914,
+    "V3_worst_frame": 789
+  },
+  {
+    "object": "V2 Planted shoe.005",
+    "V2_max_frame_displacement_m": 0.05994967743754387,
+    "V3_max_frame_displacement_m": 0.10834623128175735,
+    "V3_worst_frame": 789
+  },
+  {
+    "object": "V2 Forearm.004",
+    "V2_max_frame_displacement_m": 0.9976427555084229,
+    "V3_max_frame_displacement_m": 0.04168692231178284,
+    "V3_worst_frame": 784
+  },
+  {
+    "object": "V2 Contact hand.004",
+    "V2_max_frame_displacement_m": 1.1935244798660278,
+    "V3_max_frame_displacement_m": 0.060295604169368744,
+    "V3_worst_frame": 1021
+  },
+  {
+    "object": "V2 Upper arm.005",
+    "V2_max_frame_displacement_m": 0.2356332540512085,
+    "V3_max_frame_displacement_m": 0.041686832904815674,
+    "V3_worst_frame": 784
+  },
+  {
+    "object": "V2 Forearm.005",
+    "V2_max_frame_displacement_m": 0.7679967284202576,
+    "V3_max_frame_displacement_m": 0.04884442687034607,
+    "V3_worst_frame": 871
+  },
+  {
+    "object": "V2 Contact hand.005",
+    "V2_max_frame_displacement_m": 1.0959739685058594,
+    "V3_max_frame_displacement_m": 0.05895218998193741,
+    "V3_worst_frame": 1021
+  },
+  {
+    "object": "V2 Actor 3 ROOT",
+    "V2_max_frame_displacement_m": 0.14506539702415466,
+    "V3_max_frame_displacement_m": 0.08255242556333542,
+    "V3_worst_frame": 1677
+  },
+  {
+    "object": "V2 Head.003",
+    "V2_max_frame_displacement_m": 0.1506318897008896,
+    "V3_max_frame_displacement_m": 0.08238314837217331,
+    "V3_worst_frame": 1677
+  },
+  {
+    "object": "V2 Hair.003",
+    "V2_max_frame_displacement_m": 0.1506318897008896,
+    "V3_max_frame_displacement_m": 0.08240317553281784,
+    "V3_worst_frame": 1677
+  },
+  {
+    "object": "V2 Eye.006",
+    "V2_max_frame_displacement_m": 0.15063221752643585,
+    "V3_max_frame_displacement_m": 0.08154096454381943,
+    "V3_worst_frame": 1677
+  },
+  {
+    "object": "V2 Eye.007",
+    "V2_max_frame_displacement_m": 0.150631844997406,
+    "V3_max_frame_displacement_m": 0.08154096454381943,
+    "V3_worst_frame": 1677
+  },
+  {
+    "object": "V2 Thigh.006",
+    "V2_max_frame_displacement_m": 0.13637273013591766,
+    "V3_max_frame_displacement_m": 0.08153896033763885,
+    "V3_worst_frame": 1678
+  },
+  {
+    "object": "V2 Shin.006",
+    "V2_max_frame_displacement_m": 0.15692895650863647,
+    "V3_max_frame_displacement_m": 0.10815970599651337,
+    "V3_worst_frame": 1813
+  },
+  {
+    "object": "V2 Planted shoe.006",
+    "V2_max_frame_displacement_m": 0.15922357141971588,
+    "V3_max_frame_displacement_m": 0.13090255856513977,
+    "V3_worst_frame": 1814
+  },
+  {
+    "object": "V2 Thigh.007",
+    "V2_max_frame_displacement_m": 0.15774348378181458,
+    "V3_max_frame_displacement_m": 0.06444881111383438,
+    "V3_worst_frame": 1677
+  },
+  {
+    "object": "V2 Shin.007",
+    "V2_max_frame_displacement_m": 0.13801907002925873,
+    "V3_max_frame_displacement_m": 0.10368485748767853,
+    "V3_worst_frame": 1827
+  },
+  {
+    "object": "V2 Planted shoe.007",
+    "V2_max_frame_displacement_m": 0.14505819976329803,
+    "V3_max_frame_displacement_m": 0.12525953352451324,
+    "V3_worst_frame": 1827
+  },
+  {
+    "object": "V2 Forearm.006",
+    "V2_max_frame_displacement_m": 0.21545924246311188,
+    "V3_max_frame_displacement_m": 0.08225846290588379,
+    "V3_worst_frame": 1677
+  },
+  {
+    "object": "V2 Contact hand.006",
+    "V2_max_frame_displacement_m": 0.17140299081802368,
+    "V3_max_frame_displacement_m": 0.08263976126909256,
+    "V3_worst_frame": 1677
+  },
+  {
+    "object": "V2 Upper arm.007",
+    "V2_max_frame_displacement_m": 0.19632750749588013,
+    "V3_max_frame_displacement_m": 0.08240806311368942,
+    "V3_worst_frame": 1677
+  },
+  {
+    "object": "V2 Forearm.007",
+    "V2_max_frame_displacement_m": 0.2945418357849121,
+    "V3_max_frame_displacement_m": 0.08238957822322845,
+    "V3_worst_frame": 1677
+  },
+  {
+    "object": "V2 Contact hand.007",
+    "V2_max_frame_displacement_m": 0.45668041706085205,
+    "V3_max_frame_displacement_m": 0.08255235850811005,
+    "V3_worst_frame": 1677
+  },
+  {
+    "object": "V2 Actor 4 ROOT",
+    "V2_max_frame_displacement_m": 0.025122417137026787,
+    "V3_max_frame_displacement_m": 0.07419724762439728,
+    "V3_worst_frame": 1735
+  },
+  {
+    "object": "V2 Head.004",
+    "V2_max_frame_displacement_m": 0.02541840448975563,
+    "V3_max_frame_displacement_m": 0.07456783205270767,
+    "V3_worst_frame": 1735
+  },
+  {
+    "object": "V2 Hair.004",
+    "V2_max_frame_displacement_m": 0.025418423116207123,
+    "V3_max_frame_displacement_m": 0.07456771284341812,
+    "V3_worst_frame": 1735
+  },
+  {
+    "object": "V2 Eye.008",
+    "V2_max_frame_displacement_m": 0.12420223653316498,
+    "V3_max_frame_displacement_m": 0.07520214468240738,
+    "V3_worst_frame": 1735
+  },
+  {
+    "object": "V2 Eye.009",
+    "V2_max_frame_displacement_m": 0.12420230358839035,
+    "V3_max_frame_displacement_m": 0.07499802857637405,
+    "V3_worst_frame": 1735
+  },
+  {
+    "object": "V2 Thigh.008",
+    "V2_max_frame_displacement_m": 0.08546251058578491,
+    "V3_max_frame_displacement_m": 0.08376947045326233,
+    "V3_worst_frame": 1736
+  },
+  {
+    "object": "V2 Shin.008",
+    "V2_max_frame_displacement_m": 0.089820995926857,
+    "V3_max_frame_displacement_m": 0.11614067107439041,
+    "V3_worst_frame": 1736
+  },
+  {
+    "object": "V2 Planted shoe.008",
+    "V2_max_frame_displacement_m": 0.09431546926498413,
+    "V3_max_frame_displacement_m": 0.11511025577783585,
+    "V3_worst_frame": 1739
+  },
+  {
+    "object": "V2 Thigh.009",
+    "V2_max_frame_displacement_m": 0.08913778513669968,
+    "V3_max_frame_displacement_m": 0.05946199595928192,
+    "V3_worst_frame": 1735
+  },
+  {
+    "object": "V2 Shin.009",
+    "V2_max_frame_displacement_m": 0.09435772895812988,
+    "V3_max_frame_displacement_m": 0.09283362329006195,
+    "V3_worst_frame": 1975
+  },
+  {
+    "object": "V2 Planted shoe.009",
+    "V2_max_frame_displacement_m": 0.0997307300567627,
+    "V3_max_frame_displacement_m": 0.0964994877576828,
+    "V3_worst_frame": 1975
+  },
+  {
+    "object": "V2 Forearm.008",
+    "V2_max_frame_displacement_m": 0.3231446146965027,
+    "V3_max_frame_displacement_m": 0.13848578929901123,
+    "V3_worst_frame": 1656
+  },
+  {
+    "object": "V2 Contact hand.008",
+    "V2_max_frame_displacement_m": 0.24286581575870514,
+    "V3_max_frame_displacement_m": 0.13893920183181763,
+    "V3_worst_frame": 1656
+  },
+  {
+    "object": "V2 Upper arm.009",
+    "V2_max_frame_displacement_m": 0.2654477655887604,
+    "V3_max_frame_displacement_m": 0.11275031417608261,
+    "V3_worst_frame": 1741
+  },
+  {
+    "object": "V2 Forearm.009",
+    "V2_max_frame_displacement_m": 0.6446716785430908,
+    "V3_max_frame_displacement_m": 0.14477801322937012,
+    "V3_worst_frame": 1656
+  },
+  {
+    "object": "V2 Contact hand.009",
+    "V2_max_frame_displacement_m": 0.9533714652061462,
+    "V3_max_frame_displacement_m": 0.1478504240512848,
+    "V3_worst_frame": 1656
+  },
+  {
+    "object": "V2 Actor 5 ROOT",
+    "V2_max_frame_displacement_m": 0.19702617824077606,
+    "V3_max_frame_displacement_m": 0.18242445588111877,
+    "V3_worst_frame": 549
+  },
+  {
+    "object": "V2 Jacket.005",
+    "V2_max_frame_displacement_m": 0.2032930850982666,
+    "V3_max_frame_displacement_m": 0.18242445588111877,
+    "V3_worst_frame": 549
+  },
+  {
+    "object": "V2 Head.005",
+    "V2_max_frame_displacement_m": 0.2032930850982666,
+    "V3_max_frame_displacement_m": 0.18241028487682343,
+    "V3_worst_frame": 549
+  },
+  {
+    "object": "V2 Hair.005",
+    "V2_max_frame_displacement_m": 0.20329320430755615,
+    "V3_max_frame_displacement_m": 0.18241028487682343,
+    "V3_worst_frame": 549
+  },
+  {
+    "object": "V2 Eye.010",
+    "V2_max_frame_displacement_m": 0.20329317450523376,
+    "V3_max_frame_displacement_m": 0.18400368094444275,
+    "V3_worst_frame": 549
+  },
+  {
+    "object": "V2 Eye.011",
+    "V2_max_frame_displacement_m": 0.20329293608665466,
+    "V3_max_frame_displacement_m": 0.1807255744934082,
+    "V3_worst_frame": 549
+  },
+  {
+    "object": "V2 Thigh.010",
+    "V2_max_frame_displacement_m": 0.2490479052066803,
+    "V3_max_frame_displacement_m": 0.21926380693912506,
+    "V3_worst_frame": 549
+  },
+  {
+    "object": "V2 Shin.010",
+    "V2_max_frame_displacement_m": 0.4191604554653168,
+    "V3_max_frame_displacement_m": 0.2577102780342102,
+    "V3_worst_frame": 550
+  },
+  {
+    "object": "V2 Planted shoe.010",
+    "V2_max_frame_displacement_m": 0.44773513078689575,
+    "V3_max_frame_displacement_m": 0.3152959942817688,
+    "V3_worst_frame": 550
+  },
+  {
+    "object": "V2 Thigh.011",
+    "V2_max_frame_displacement_m": 0.2328508496284485,
+    "V3_max_frame_displacement_m": 0.19237186014652252,
+    "V3_worst_frame": 547
+  },
+  {
+    "object": "V2 Shin.011",
+    "V2_max_frame_displacement_m": 0.38659992814064026,
+    "V3_max_frame_displacement_m": 0.2621506154537201,
+    "V3_worst_frame": 547
+  },
+  {
+    "object": "V2 Planted shoe.011",
+    "V2_max_frame_displacement_m": 0.40046364068984985,
+    "V3_max_frame_displacement_m": 0.3005056083202362,
+    "V3_worst_frame": 547
+  },
+  {
+    "object": "V2 Upper arm.010",
+    "V2_max_frame_displacement_m": 0.2987237274646759,
+    "V3_max_frame_displacement_m": 0.20908744633197784,
+    "V3_worst_frame": 548
+  },
+  {
+    "object": "V2 Forearm.010",
+    "V2_max_frame_displacement_m": 0.3355378806591034,
+    "V3_max_frame_displacement_m": 0.25553059577941895,
+    "V3_worst_frame": 548
+  },
+  {
+    "object": "V2 Contact hand.010",
+    "V2_max_frame_displacement_m": 0.25400659441947937,
+    "V3_max_frame_displacement_m": 0.2774240970611572,
+    "V3_worst_frame": 548
+  },
+  {
+    "object": "V2 Upper arm.011",
+    "V2_max_frame_displacement_m": 0.29865503311157227,
+    "V3_max_frame_displacement_m": 0.1843249499797821,
+    "V3_worst_frame": 550
+  },
+  {
+    "object": "V2 Forearm.011",
+    "V2_max_frame_displacement_m": 0.335437148809433,
+    "V3_max_frame_displacement_m": 0.22644644975662231,
+    "V3_worst_frame": 550
+  },
+  {
+    "object": "V2 Contact hand.011",
+    "V2_max_frame_displacement_m": 0.25388413667678833,
+    "V3_max_frame_displacement_m": 0.254620224237442,
+    "V3_worst_frame": 550
+  },
+  {
+    "object": "V2 Actor 6 ROOT",
+    "V2_max_frame_displacement_m": 0.15450115501880646,
+    "V3_max_frame_displacement_m": 0.12978696823120117,
+    "V3_worst_frame": 804
+  },
+  {
+    "object": "V2 Jacket.006",
+    "V2_max_frame_displacement_m": 0.15337178111076355,
+    "V3_max_frame_displacement_m": 0.12978696823120117,
+    "V3_worst_frame": 804
+  },
+  {
+    "object": "V2 Head.006",
+    "V2_max_frame_displacement_m": 0.15337178111076355,
+    "V3_max_frame_displacement_m": 0.12979762256145477,
+    "V3_worst_frame": 804
+  },
+  {
+    "object": "V2 Hair.006",
+    "V2_max_frame_displacement_m": 0.1533719003200531,
+    "V3_max_frame_displacement_m": 0.12979762256145477,
+    "V3_worst_frame": 804
+  },
+  {
+    "object": "V2 Eye.012",
+    "V2_max_frame_displacement_m": 0.15337181091308594,
+    "V3_max_frame_displacement_m": 0.12979762256145477,
+    "V3_worst_frame": 804
+  },
+  {
+    "object": "V2 Eye.013",
+    "V2_max_frame_displacement_m": 0.15337181091308594,
+    "V3_max_frame_displacement_m": 0.12979762256145477,
+    "V3_worst_frame": 804
+  },
+  {
+    "object": "V2 Thigh.012",
+    "V2_max_frame_displacement_m": 0.17968915402889252,
+    "V3_max_frame_displacement_m": 0.15576626360416412,
+    "V3_worst_frame": 802
+  },
+  {
+    "object": "V2 Shin.012",
+    "V2_max_frame_displacement_m": 0.2863888740539551,
+    "V3_max_frame_displacement_m": 0.19582870602607727,
+    "V3_worst_frame": 802
+  },
+  {
+    "object": "V2 Planted shoe.012",
+    "V2_max_frame_displacement_m": 0.3169742226600647,
+    "V3_max_frame_displacement_m": 0.22904665768146515,
+    "V3_worst_frame": 803
+  },
+  {
+    "object": "V2 Thigh.013",
+    "V2_max_frame_displacement_m": 0.1859867423772812,
+    "V3_max_frame_displacement_m": 0.15668557584285736,
+    "V3_worst_frame": 805
+  },
+  {
+    "object": "V2 Shin.013",
+    "V2_max_frame_displacement_m": 0.2995079457759857,
+    "V3_max_frame_displacement_m": 0.19502030313014984,
+    "V3_worst_frame": 805
+  },
+  {
+    "object": "V2 Planted shoe.013",
+    "V2_max_frame_displacement_m": 0.324844628572464,
+    "V3_max_frame_displacement_m": 0.2263021022081375,
+    "V3_worst_frame": 800
+  },
+  {
+    "object": "V2 Upper arm.012",
+    "V2_max_frame_displacement_m": 0.30565792322158813,
+    "V3_max_frame_displacement_m": 0.15382404625415802,
+    "V3_worst_frame": 602
+  },
+  {
+    "object": "V2 Forearm.012",
+    "V2_max_frame_displacement_m": 0.34254708886146545,
+    "V3_max_frame_displacement_m": 0.20046696066856384,
+    "V3_worst_frame": 602
+  },
+  {
+    "object": "V2 Contact hand.012",
+    "V2_max_frame_displacement_m": 0.2581958472728729,
+    "V3_max_frame_displacement_m": 0.19314023852348328,
+    "V3_worst_frame": 806
+  },
+  {
+    "object": "V2 Upper arm.013",
+    "V2_max_frame_displacement_m": 0.3056577742099762,
+    "V3_max_frame_displacement_m": 0.15567710995674133,
+    "V3_worst_frame": 602
+  },
+  {
+    "object": "V2 Forearm.013",
+    "V2_max_frame_displacement_m": 0.3425467610359192,
+    "V3_max_frame_displacement_m": 0.20883789658546448,
+    "V3_worst_frame": 602
+  },
+  {
+    "object": "V2 Contact hand.013",
+    "V2_max_frame_displacement_m": 0.2581956088542938,
+    "V3_max_frame_displacement_m": 0.19948942959308624,
+    "V3_worst_frame": 1437
+  },
+  {
+    "object": "V2 Hero banknote GRIP CORNER",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.16870391368865967,
+    "V3_worst_frame": 571
+  },
+  {
+    "object": "V2 Hero banknote fold hinge",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.16870391368865967,
+    "V3_worst_frame": 571
+  },
+  {
+    "object": "V2 Hero banknote ink",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.16899213194847107,
+    "V3_worst_frame": 571
+  },
+  {
+    "object": "V2 Hero banknote fold hinge.001",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.16923756897449493,
+    "V3_worst_frame": 571
+  },
+  {
+    "object": "V2 Hero banknote paper.001",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.16950516402721405,
+    "V3_worst_frame": 571
+  },
+  {
+    "object": "V2 Hero banknote ink.001",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.16952674090862274,
+    "V3_worst_frame": 571
+  },
+  {
+    "object": "V2 Harvester banknote GRIP CORNER",
+    "V2_max_frame_displacement_m": 0.3307614326477051,
+    "V3_max_frame_displacement_m": 0.16736169159412384,
+    "V3_worst_frame": 1080
+  },
+  {
+    "object": "V2 Harvester banknote fold hinge",
+    "V2_max_frame_displacement_m": 0.3307614326477051,
+    "V3_max_frame_displacement_m": 0.16736169159412384,
+    "V3_worst_frame": 1080
+  },
+  {
+    "object": "V2 Harvester banknote paper",
+    "V2_max_frame_displacement_m": 0.33028459548950195,
+    "V3_max_frame_displacement_m": 0.16709208488464355,
+    "V3_worst_frame": 1080
+  },
+  {
+    "object": "V2 Harvester banknote ink",
+    "V2_max_frame_displacement_m": 0.3302989602088928,
+    "V3_max_frame_displacement_m": 0.16707170009613037,
+    "V3_worst_frame": 1080
+  },
+  {
+    "object": "V2 Harvester banknote fold hinge.001",
+    "V2_max_frame_displacement_m": 0.32980701327323914,
+    "V3_max_frame_displacement_m": 0.16682226955890656,
+    "V3_worst_frame": 1080
+  },
+  {
+    "object": "V2 Harvester banknote paper.001",
+    "V2_max_frame_displacement_m": 0.3293304145336151,
+    "V3_max_frame_displacement_m": 0.1665535718202591,
+    "V3_worst_frame": 1080
+  },
+  {
+    "object": "V2 Harvester banknote ink.001",
+    "V2_max_frame_displacement_m": 0.32934483885765076,
+    "V3_max_frame_displacement_m": 0.16653312742710114,
+    "V3_worst_frame": 1080
+  },
+  {
+    "object": "V2 Harvester banknote fictional gold seal",
+    "V2_max_frame_displacement_m": 0.3303706645965576,
+    "V3_max_frame_displacement_m": 0.16708986461162567,
+    "V3_worst_frame": 1080
+  },
+  {
+    "object": "V2 Low money branch.001",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Bread inventory",
+    "V2_max_frame_displacement_m": 2.1943588256835938,
+    "V3_max_frame_displacement_m": 0.0497923344373703,
+    "V3_worst_frame": 872
+  },
+  {
+    "object": "V2 Bread inventory.001",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Bread inventory.002",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Bread inventory.003",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Bread inventory.004",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Bread inventory.005",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Bread inventory.006",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Bread inventory.007",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Bread inventory.008",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Bread inventory.009",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Bread inventory.010",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Bread inventory.011",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Price board",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Bread price $2",
+    "V2_max_frame_displacement_m": 0.0033594637643545866,
+    "V3_max_frame_displacement_m": 0.0033594637643545866,
+    "V3_worst_frame": 1257
+  },
+  {
+    "object": "V2 Bread price $20",
+    "V2_max_frame_displacement_m": 0.0033594637643545866,
+    "V3_max_frame_displacement_m": 0.0033594637643545866,
+    "V3_worst_frame": 1257
+  },
+  {
+    "object": "V2 Bread price $200",
+    "V2_max_frame_displacement_m": 0.0033594637643545866,
+    "V3_max_frame_displacement_m": 0.0033594637643545866,
+    "V3_worst_frame": 1257
+  },
+  {
+    "object": "V2 Bread price $2,000",
+    "V2_max_frame_displacement_m": 0.0033594637643545866,
+    "V3_max_frame_displacement_m": 0.0033594637643545866,
+    "V3_worst_frame": 1257
+  },
+  {
+    "object": "V2 Price caption",
+    "V2_max_frame_displacement_m": 0.025418084114789963,
+    "V3_max_frame_displacement_m": 0.025418084114789963,
+    "V3_worst_frame": 1257
+  },
+  {
+    "object": "V2 Physical price flip rig",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Offered cash grip",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.16870391368865967,
+    "V3_worst_frame": 571
+  },
+  {
+    "object": "V2 Offered banknote",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.21253541111946106,
+    "V3_worst_frame": 721
+  },
+  {
+    "object": "V2 Offered banknote.001",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.2264762669801712,
+    "V3_worst_frame": 721
+  },
+  {
+    "object": "V2 Offered banknote.002",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.2498033195734024,
+    "V3_worst_frame": 721
+  },
+  {
+    "object": "V2 Offered banknote.003",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.280181884765625,
+    "V3_worst_frame": 721
+  },
+  {
+    "object": "V2 Offered banknote.004",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.31558215618133545,
+    "V3_worst_frame": 721
+  },
+  {
+    "object": "V2 Offered banknote.005",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.3545028269290924,
+    "V3_worst_frame": 721
+  },
+  {
+    "object": "V2 Offered banknote.006",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.3959072232246399,
+    "V3_worst_frame": 721
+  },
+  {
+    "object": "V2 Offered banknote.007",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.4390929937362671,
+    "V3_worst_frame": 721
+  },
+  {
+    "object": "V2 Windfall",
+    "V2_max_frame_displacement_m": 0.09383594989776611,
+    "V3_max_frame_displacement_m": 0.11123202741146088,
+    "V3_worst_frame": 589
+  },
+  {
+    "object": "V2 Windfall.001",
+    "V2_max_frame_displacement_m": 0.09348919242620468,
+    "V3_max_frame_displacement_m": 0.0798390582203865,
+    "V3_worst_frame": 578
+  },
+  {
+    "object": "V2 Windfall.002",
+    "V2_max_frame_displacement_m": 0.09428089112043381,
+    "V3_max_frame_displacement_m": 0.11078745126724243,
+    "V3_worst_frame": 617
+  },
+  {
+    "object": "V2 Windfall.003",
+    "V2_max_frame_displacement_m": 0.09387724101543427,
+    "V3_max_frame_displacement_m": 0.11123036593198776,
+    "V3_worst_frame": 552
+  },
+  {
+    "object": "V2 Windfall.004",
+    "V2_max_frame_displacement_m": 0.09392143785953522,
+    "V3_max_frame_displacement_m": 0.11123029887676239,
+    "V3_worst_frame": 580
+  },
+  {
+    "object": "V2 Windfall.005",
+    "V2_max_frame_displacement_m": 0.09438806772232056,
+    "V3_max_frame_displacement_m": 0.11121582239866257,
+    "V3_worst_frame": 548
+  },
+  {
+    "object": "V2 Windfall.006",
+    "V2_max_frame_displacement_m": 0.09268462657928467,
+    "V3_max_frame_displacement_m": 0.11122506111860275,
+    "V3_worst_frame": 628
+  },
+  {
+    "object": "V2 Windfall.007",
+    "V2_max_frame_displacement_m": 0.09295506775379181,
+    "V3_max_frame_displacement_m": 0.1107918992638588,
+    "V3_worst_frame": 564
+  },
+  {
+    "object": "V2 Windfall.008",
+    "V2_max_frame_displacement_m": 0.09452898055315018,
+    "V3_max_frame_displacement_m": 0.11121475696563721,
+    "V3_worst_frame": 638
+  },
+  {
+    "object": "V2 Windfall.009",
+    "V2_max_frame_displacement_m": 0.09308107197284698,
+    "V3_max_frame_displacement_m": 0.11121808737516403,
+    "V3_worst_frame": 615
+  },
+  {
+    "object": "V2 Windfall.010",
+    "V2_max_frame_displacement_m": 0.0931381806731224,
+    "V3_max_frame_displacement_m": 0.11080331355333328,
+    "V3_worst_frame": 598
+  },
+  {
+    "object": "V2 Windfall.011",
+    "V2_max_frame_displacement_m": 0.09382107108831406,
+    "V3_max_frame_displacement_m": 0.1112154871225357,
+    "V3_worst_frame": 621
+  },
+  {
+    "object": "V2 Windfall.012",
+    "V2_max_frame_displacement_m": 0.09267313033342361,
+    "V3_max_frame_displacement_m": 0.11122724413871765,
+    "V3_worst_frame": 554
+  },
+  {
+    "object": "V2 Windfall.013",
+    "V2_max_frame_displacement_m": 0.09289935976266861,
+    "V3_max_frame_displacement_m": 0.11123500019311905,
+    "V3_worst_frame": 589
+  },
+  {
+    "object": "V2 Windfall.014",
+    "V2_max_frame_displacement_m": 0.09435782581567764,
+    "V3_max_frame_displacement_m": 0.1107860878109932,
+    "V3_worst_frame": 525
+  },
+  {
+    "object": "V2 Windfall.015",
+    "V2_max_frame_displacement_m": 0.09310463815927505,
+    "V3_max_frame_displacement_m": 0.11123556643724442,
+    "V3_worst_frame": 603
+  },
+  {
+    "object": "V2 Windfall.016",
+    "V2_max_frame_displacement_m": 0.09385638684034348,
+    "V3_max_frame_displacement_m": 0.11121845990419388,
+    "V3_worst_frame": 639
+  },
+  {
+    "object": "V2 Windfall.017",
+    "V2_max_frame_displacement_m": 0.09281276911497116,
+    "V3_max_frame_displacement_m": 0.11121966689825058,
+    "V3_worst_frame": 645
+  },
+  {
+    "object": "V2 Windfall.018",
+    "V2_max_frame_displacement_m": 0.09393582493066788,
+    "V3_max_frame_displacement_m": 0.11121129244565964,
+    "V3_worst_frame": 610
+  },
+  {
+    "object": "V2 Windfall.019",
+    "V2_max_frame_displacement_m": 0.0932852253317833,
+    "V3_max_frame_displacement_m": 0.11121782660484314,
+    "V3_worst_frame": 584
+  },
+  {
+    "object": "V2 Windfall.020",
+    "V2_max_frame_displacement_m": 0.09337010234594345,
+    "V3_max_frame_displacement_m": 0.11080809682607651,
+    "V3_worst_frame": 555
+  },
+  {
+    "object": "V2 Windfall.021",
+    "V2_max_frame_displacement_m": 0.09275392442941666,
+    "V3_max_frame_displacement_m": 0.11122824251651764,
+    "V3_worst_frame": 581
+  },
+  {
+    "object": "V2 Windfall.022",
+    "V2_max_frame_displacement_m": 0.09306707233190536,
+    "V3_max_frame_displacement_m": 0.11121547222137451,
+    "V3_worst_frame": 555
+  },
+  {
+    "object": "V2 Windfall.023",
+    "V2_max_frame_displacement_m": 0.09354370832443237,
+    "V3_max_frame_displacement_m": 0.11080032587051392,
+    "V3_worst_frame": 628
+  },
+  {
+    "object": "V2 Windfall.024",
+    "V2_max_frame_displacement_m": 0.09294797480106354,
+    "V3_max_frame_displacement_m": 0.11122477054595947,
+    "V3_worst_frame": 562
+  },
+  {
+    "object": "V2 Windfall.025",
+    "V2_max_frame_displacement_m": 0.09262759983539581,
+    "V3_max_frame_displacement_m": 0.11123207211494446,
+    "V3_worst_frame": 625
+  },
+  {
+    "object": "V2 Windfall.026",
+    "V2_max_frame_displacement_m": 0.09373601526021957,
+    "V3_max_frame_displacement_m": 0.11122103780508041,
+    "V3_worst_frame": 650
+  },
+  {
+    "object": "V2 Windfall.027",
+    "V2_max_frame_displacement_m": 0.09256107360124588,
+    "V3_max_frame_displacement_m": 0.11121769994497299,
+    "V3_worst_frame": 555
+  },
+  {
+    "object": "V2 Windfall.028",
+    "V2_max_frame_displacement_m": 0.0927976444363594,
+    "V3_max_frame_displacement_m": 0.11122607439756393,
+    "V3_worst_frame": 575
+  },
+  {
+    "object": "V2 Windfall.029",
+    "V2_max_frame_displacement_m": 0.09305104613304138,
+    "V3_max_frame_displacement_m": 0.07982037961483002,
+    "V3_worst_frame": 575
+  },
+  {
+    "object": "V2 Windfall.030",
+    "V2_max_frame_displacement_m": 0.09389819204807281,
+    "V3_max_frame_displacement_m": 0.1112150251865387,
+    "V3_worst_frame": 553
+  },
+  {
+    "object": "V2 Windfall.031",
+    "V2_max_frame_displacement_m": 0.09417030215263367,
+    "V3_max_frame_displacement_m": 0.12749868631362915,
+    "V3_worst_frame": 608
+  },
+  {
+    "object": "V2 Windfall.032",
+    "V2_max_frame_displacement_m": 0.09422100335359573,
+    "V3_max_frame_displacement_m": 0.11122342944145203,
+    "V3_worst_frame": 598
+  },
+  {
+    "object": "V2 Windfall.033",
+    "V2_max_frame_displacement_m": 0.09434135258197784,
+    "V3_max_frame_displacement_m": 0.11124059557914734,
+    "V3_worst_frame": 617
+  },
+  {
+    "object": "V2 Windfall.034",
+    "V2_max_frame_displacement_m": 0.09352631866931915,
+    "V3_max_frame_displacement_m": 0.1112242192029953,
+    "V3_worst_frame": 649
+  },
+  {
+    "object": "V2 Windfall.035",
+    "V2_max_frame_displacement_m": 0.09311068058013916,
+    "V3_max_frame_displacement_m": 0.11121370643377304,
+    "V3_worst_frame": 610
+  },
+  {
+    "object": "V2 Windfall.036",
+    "V2_max_frame_displacement_m": 0.09307456016540527,
+    "V3_max_frame_displacement_m": 0.11079330742359161,
+    "V3_worst_frame": 560
+  },
+  {
+    "object": "V2 Windfall.037",
+    "V2_max_frame_displacement_m": 0.09305765479803085,
+    "V3_max_frame_displacement_m": 0.11122874915599823,
+    "V3_worst_frame": 546
+  },
+  {
+    "object": "V2 Windfall.038",
+    "V2_max_frame_displacement_m": 0.09325854480266571,
+    "V3_max_frame_displacement_m": 0.11123991757631302,
+    "V3_worst_frame": 526
+  },
+  {
+    "object": "V2 Windfall.039",
+    "V2_max_frame_displacement_m": 0.09292937070131302,
+    "V3_max_frame_displacement_m": 0.11121866852045059,
+    "V3_worst_frame": 523
+  },
+  {
+    "object": "V2 Windfall.040",
+    "V2_max_frame_displacement_m": 0.09440137445926666,
+    "V3_max_frame_displacement_m": 0.11121998727321625,
+    "V3_worst_frame": 563
+  },
+  {
+    "object": "V2 Windfall.041",
+    "V2_max_frame_displacement_m": 0.09420162439346313,
+    "V3_max_frame_displacement_m": 0.11121011525392532,
+    "V3_worst_frame": 628
+  },
+  {
+    "object": "V2 Windfall.042",
+    "V2_max_frame_displacement_m": 0.09370362758636475,
+    "V3_max_frame_displacement_m": 0.11122819781303406,
+    "V3_worst_frame": 565
+  },
+  {
+    "object": "V2 Windfall.043",
+    "V2_max_frame_displacement_m": 0.09420746564865112,
+    "V3_max_frame_displacement_m": 0.1112205907702446,
+    "V3_worst_frame": 573
+  },
+  {
+    "object": "V2 Windfall.044",
+    "V2_max_frame_displacement_m": 0.09379057586193085,
+    "V3_max_frame_displacement_m": 0.11123094707727432,
+    "V3_worst_frame": 593
+  },
+  {
+    "object": "V2 Windfall.045",
+    "V2_max_frame_displacement_m": 0.09446490556001663,
+    "V3_max_frame_displacement_m": 0.1112288311123848,
+    "V3_worst_frame": 545
+  },
+  {
+    "object": "V2 Windfall.046",
+    "V2_max_frame_displacement_m": 0.09423401951789856,
+    "V3_max_frame_displacement_m": 0.11121921241283417,
+    "V3_worst_frame": 591
+  },
+  {
+    "object": "V2 Windfall.047",
+    "V2_max_frame_displacement_m": 0.09367693960666656,
+    "V3_max_frame_displacement_m": 0.1112254410982132,
+    "V3_worst_frame": 541
+  },
+  {
+    "object": "V2 Windfall.048",
+    "V2_max_frame_displacement_m": 0.0934186801314354,
+    "V3_max_frame_displacement_m": 0.11122273653745651,
+    "V3_worst_frame": 575
+  },
+  {
+    "object": "V2 Windfall.049",
+    "V2_max_frame_displacement_m": 0.09281894564628601,
+    "V3_max_frame_displacement_m": 0.1098223477602005,
+    "V3_worst_frame": 552
+  },
+  {
+    "object": "V2 Windfall.050",
+    "V2_max_frame_displacement_m": 0.09391646832227707,
+    "V3_max_frame_displacement_m": 0.11122812330722809,
+    "V3_worst_frame": 583
+  },
+  {
+    "object": "V2 Windfall.051",
+    "V2_max_frame_displacement_m": 0.09415698796510696,
+    "V3_max_frame_displacement_m": 0.11124001443386078,
+    "V3_worst_frame": 627
+  },
+  {
+    "object": "V2 Windfall.052",
+    "V2_max_frame_displacement_m": 0.0930335745215416,
+    "V3_max_frame_displacement_m": 0.11032848060131073,
+    "V3_worst_frame": 549
+  },
+  {
+    "object": "V2 Windfall.053",
+    "V2_max_frame_displacement_m": 0.09451419860124588,
+    "V3_max_frame_displacement_m": 0.11122747510671616,
+    "V3_worst_frame": 575
+  },
+  {
+    "object": "V2 Windfall.054",
+    "V2_max_frame_displacement_m": 0.09330815076828003,
+    "V3_max_frame_displacement_m": 0.11123665422201157,
+    "V3_worst_frame": 649
+  },
+  {
+    "object": "V2 Windfall.055",
+    "V2_max_frame_displacement_m": 0.09325350075960159,
+    "V3_max_frame_displacement_m": 0.11121615022420883,
+    "V3_worst_frame": 597
+  },
+  {
+    "object": "V2 Windfall.056",
+    "V2_max_frame_displacement_m": 0.09366564452648163,
+    "V3_max_frame_displacement_m": 0.1112331673502922,
+    "V3_worst_frame": 594
+  },
+  {
+    "object": "V2 Windfall.057",
+    "V2_max_frame_displacement_m": 0.09344556927680969,
+    "V3_max_frame_displacement_m": 0.11079278588294983,
+    "V3_worst_frame": 555
+  },
+  {
+    "object": "V2 Windfall.058",
+    "V2_max_frame_displacement_m": 0.09413079917430878,
+    "V3_max_frame_displacement_m": 0.11123672127723694,
+    "V3_worst_frame": 648
+  },
+  {
+    "object": "V2 Windfall.059",
+    "V2_max_frame_displacement_m": 0.09441949427127838,
+    "V3_max_frame_displacement_m": 0.11123751103878021,
+    "V3_worst_frame": 617
+  },
+  {
+    "object": "V2 Windfall.060",
+    "V2_max_frame_displacement_m": 0.09390588104724884,
+    "V3_max_frame_displacement_m": 0.1112210750579834,
+    "V3_worst_frame": 557
+  },
+  {
+    "object": "V2 Windfall.061",
+    "V2_max_frame_displacement_m": 0.09372194856405258,
+    "V3_max_frame_displacement_m": 0.11121897399425507,
+    "V3_worst_frame": 555
+  },
+  {
+    "object": "V2 Windfall.062",
+    "V2_max_frame_displacement_m": 0.09273430705070496,
+    "V3_max_frame_displacement_m": 0.11032051593065262,
+    "V3_worst_frame": 622
+  },
+  {
+    "object": "V2 Windfall.063",
+    "V2_max_frame_displacement_m": 0.09435787051916122,
+    "V3_max_frame_displacement_m": 0.07982824742794037,
+    "V3_worst_frame": 500
+  },
+  {
+    "object": "V2 Windfall.064",
+    "V2_max_frame_displacement_m": 0.09354225546121597,
+    "V3_max_frame_displacement_m": 0.11121397465467453,
+    "V3_worst_frame": 646
+  },
+  {
+    "object": "V2 Windfall.065",
+    "V2_max_frame_displacement_m": 0.09388911724090576,
+    "V3_max_frame_displacement_m": 0.11079959571361542,
+    "V3_worst_frame": 607
+  },
+  {
+    "object": "V2 Windfall.066",
+    "V2_max_frame_displacement_m": 0.09304000437259674,
+    "V3_max_frame_displacement_m": 0.1112319752573967,
+    "V3_worst_frame": 549
+  },
+  {
+    "object": "V2 Windfall.067",
+    "V2_max_frame_displacement_m": 0.09349874407052994,
+    "V3_max_frame_displacement_m": 0.11123131960630417,
+    "V3_worst_frame": 612
+  },
+  {
+    "object": "V2 Windfall.068",
+    "V2_max_frame_displacement_m": 0.09288907796144485,
+    "V3_max_frame_displacement_m": 0.1112261489033699,
+    "V3_worst_frame": 572
+  },
+  {
+    "object": "V2 Windfall.069",
+    "V2_max_frame_displacement_m": 0.09286424517631531,
+    "V3_max_frame_displacement_m": 0.11121919751167297,
+    "V3_worst_frame": 578
+  },
+  {
+    "object": "V2 Windfall.070",
+    "V2_max_frame_displacement_m": 0.09423293173313141,
+    "V3_max_frame_displacement_m": 0.11079668253660202,
+    "V3_worst_frame": 648
+  },
+  {
+    "object": "V2 Windfall.071",
+    "V2_max_frame_displacement_m": 0.09346133470535278,
+    "V3_max_frame_displacement_m": 0.11122255772352219,
+    "V3_worst_frame": 563
+  },
+  {
+    "object": "V2 Windfall.072",
+    "V2_max_frame_displacement_m": 0.09431486576795578,
+    "V3_max_frame_displacement_m": 0.1112230196595192,
+    "V3_worst_frame": 595
+  },
+  {
+    "object": "V2 Windfall.073",
+    "V2_max_frame_displacement_m": 0.0938095822930336,
+    "V3_max_frame_displacement_m": 0.11123690009117126,
+    "V3_worst_frame": 535
+  },
+  {
+    "object": "V2 Windfall.074",
+    "V2_max_frame_displacement_m": 0.09319059550762177,
+    "V3_max_frame_displacement_m": 0.11123507469892502,
+    "V3_worst_frame": 608
+  },
+  {
+    "object": "V2 Windfall.075",
+    "V2_max_frame_displacement_m": 0.0941663533449173,
+    "V3_max_frame_displacement_m": 0.1107935756444931,
+    "V3_worst_frame": 570
+  },
+  {
+    "object": "V2 Windfall.076",
+    "V2_max_frame_displacement_m": 0.09286732971668243,
+    "V3_max_frame_displacement_m": 0.11122053116559982,
+    "V3_worst_frame": 536
+  },
+  {
+    "object": "V2 Windfall.077",
+    "V2_max_frame_displacement_m": 0.09317632019519806,
+    "V3_max_frame_displacement_m": 0.11121165007352829,
+    "V3_worst_frame": 612
+  },
+  {
+    "object": "V2 Windfall.078",
+    "V2_max_frame_displacement_m": 0.09435120970010757,
+    "V3_max_frame_displacement_m": 0.110783651471138,
+    "V3_worst_frame": 522
+  },
+  {
+    "object": "V2 Windfall.079",
+    "V2_max_frame_displacement_m": 0.09292145073413849,
+    "V3_max_frame_displacement_m": 0.11121996492147446,
+    "V3_worst_frame": 562
+  },
+  {
+    "object": "V2 Final tree fall",
+    "V2_max_frame_displacement_m": 0.04972357675433159,
+    "V3_max_frame_displacement_m": 0.1112399622797966,
+    "V3_worst_frame": 2217
+  },
+  {
+    "object": "V2 Final tree fall.001",
+    "V2_max_frame_displacement_m": 0.04944256693124771,
+    "V3_max_frame_displacement_m": 0.11121805757284164,
+    "V3_worst_frame": 2218
+  },
+  {
+    "object": "V2 Final tree fall.002",
+    "V2_max_frame_displacement_m": 0.0496840663254261,
+    "V3_max_frame_displacement_m": 0.11121048778295517,
+    "V3_worst_frame": 2219
+  },
+  {
+    "object": "V2 Final tree fall.003",
+    "V2_max_frame_displacement_m": 0.04950932413339615,
+    "V3_max_frame_displacement_m": 0.11121836304664612,
+    "V3_worst_frame": 2220
+  },
+  {
+    "object": "V2 Final tree fall.004",
+    "V2_max_frame_displacement_m": 0.04970977082848549,
+    "V3_max_frame_displacement_m": 0.11124108731746674,
+    "V3_worst_frame": 2221
+  },
+  {
+    "object": "V2 Final tree fall.005",
+    "V2_max_frame_displacement_m": 0.04953078553080559,
+    "V3_max_frame_displacement_m": 0.11123233288526535,
+    "V3_worst_frame": 2222
+  },
+  {
+    "object": "V2 Final tree fall.006",
+    "V2_max_frame_displacement_m": 0.0495576448738575,
+    "V3_max_frame_displacement_m": 0.11121605336666107,
+    "V3_worst_frame": 2223
+  },
+  {
+    "object": "V2 Final tree fall.007",
+    "V2_max_frame_displacement_m": 0.04948456212878227,
+    "V3_max_frame_displacement_m": 0.11121001839637756,
+    "V3_worst_frame": 2224
+  },
+  {
+    "object": "V2 Final tree fall.008",
+    "V2_max_frame_displacement_m": 0.04956768825650215,
+    "V3_max_frame_displacement_m": 0.11122623831033707,
+    "V3_worst_frame": 2225
+  },
+  {
+    "object": "V2 Final tree fall.009",
+    "V2_max_frame_displacement_m": 0.04961118474602699,
+    "V3_max_frame_displacement_m": 0.1112397313117981,
+    "V3_worst_frame": 2226
+  },
+  {
+    "object": "V2 Final tree fall.010",
+    "V2_max_frame_displacement_m": 0.04968315362930298,
+    "V3_max_frame_displacement_m": 0.11122699081897736,
+    "V3_worst_frame": 2227
+  },
+  {
+    "object": "V2 Final tree fall.011",
+    "V2_max_frame_displacement_m": 0.04953332245349884,
+    "V3_max_frame_displacement_m": 0.11121535301208496,
+    "V3_worst_frame": 2228
+  },
+  {
+    "object": "V2 Final tree fall.012",
+    "V2_max_frame_displacement_m": 0.04975564777851105,
+    "V3_max_frame_displacement_m": 0.11121252924203873,
+    "V3_worst_frame": 2229
+  },
+  {
+    "object": "V2 Final tree fall.013",
+    "V2_max_frame_displacement_m": 0.04965224862098694,
+    "V3_max_frame_displacement_m": 0.11123157292604446,
+    "V3_worst_frame": 2230
+  },
+  {
+    "object": "V2 Final tree fall.014",
+    "V2_max_frame_displacement_m": 0.0494350902736187,
+    "V3_max_frame_displacement_m": 0.11123406887054443,
+    "V3_worst_frame": 2231
+  },
+  {
+    "object": "V2 Final tree fall.015",
+    "V2_max_frame_displacement_m": 0.04940640926361084,
+    "V3_max_frame_displacement_m": 0.11122658103704453,
+    "V3_worst_frame": 2232
+  },
+  {
+    "object": "V2 Final tree fall.016",
+    "V2_max_frame_displacement_m": 0.04940887913107872,
+    "V3_max_frame_displacement_m": 0.11121419072151184,
+    "V3_worst_frame": 2233
+  },
+  {
+    "object": "V2 Final tree fall.017",
+    "V2_max_frame_displacement_m": 0.04965837672352791,
+    "V3_max_frame_displacement_m": 0.11121711134910583,
+    "V3_worst_frame": 2234
+  },
+  {
+    "object": "V2 Final tree fall.018",
+    "V2_max_frame_displacement_m": 0.049589429050683975,
+    "V3_max_frame_displacement_m": 0.1112305074930191,
+    "V3_worst_frame": 2235
+  },
+  {
+    "object": "V2 Final tree fall.019",
+    "V2_max_frame_displacement_m": 0.0495765283703804,
+    "V3_max_frame_displacement_m": 0.1112324669957161,
+    "V3_worst_frame": 2236
+  },
+  {
+    "object": "V2 Final tree fall.020",
+    "V2_max_frame_displacement_m": 0.049792684614658356,
+    "V3_max_frame_displacement_m": 0.11122670769691467,
+    "V3_worst_frame": 2237
+  },
+  {
+    "object": "V2 Final tree fall.021",
+    "V2_max_frame_displacement_m": 0.049560606479644775,
+    "V3_max_frame_displacement_m": 0.11121326684951782,
+    "V3_worst_frame": 2238
+  },
+  {
+    "object": "V2 Money foliage",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.001",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.002",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.003",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.004",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.005",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.006",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.007",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.008",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.009",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.010",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.011",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.012",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.013",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.014",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.015",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.016",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.017",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.018",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.019",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.020",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.021",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.022",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.023",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.024",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.025",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.026",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.027",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.028",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.029",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.030",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.031",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.032",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.033",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.034",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.035",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.036",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.037",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.038",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.039",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.040",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.041",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.042",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.043",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.044",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.045",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.046",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.047",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.048",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.049",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.050",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.051",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.052",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.053",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.054",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.055",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.056",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.057",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.058",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.059",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.060",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.061",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.062",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.063",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.064",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.065",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.066",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.067",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.068",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.069",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.070",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.071",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.072",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.073",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.074",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.075",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.076",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Money foliage.077",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.001",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.002",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.003",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.004",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.005",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.006",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.007",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.008",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.009",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.010",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.011",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.012",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.013",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.014",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.015",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.016",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.017",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.018",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.019",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.020",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.021",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.022",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.023",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.024",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.025",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.026",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.027",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.028",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.029",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.030",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.031",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.032",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.033",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.034",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.035",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.036",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.037",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.038",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.039",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.040",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.041",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.042",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.043",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.044",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.045",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.046",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.047",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.048",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.049",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.050",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.051",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.052",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.053",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.054",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.055",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.056",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.057",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.058",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.059",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.060",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.061",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.062",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.063",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.064",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.065",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.066",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.067",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.068",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.069",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.070",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.071",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.072",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.073",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.074",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.075",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.076",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.077",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.078",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.079",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.080",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.081",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.082",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.083",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.084",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.085",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.086",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.087",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.088",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.089",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.090",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.091",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.092",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.093",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.094",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.095",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.096",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.097",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.098",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Discarded paper.099",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Delivery van ROOT",
+    "V2_max_frame_displacement_m": 0.11428225785493851,
+    "V3_max_frame_displacement_m": 0.11428225785493851,
+    "V3_worst_frame": 1876
+  },
+  {
+    "object": "V2 Delivery van",
+    "V2_max_frame_displacement_m": 0.11428225785493851,
+    "V3_max_frame_displacement_m": 0.11428225785493851,
+    "V3_worst_frame": 1876
+  },
+  {
+    "object": "V2 Rolling delivery wheel",
+    "V2_max_frame_displacement_m": 0.11428225040435791,
+    "V3_max_frame_displacement_m": 0.11428225040435791,
+    "V3_worst_frame": 1876
+  },
+  {
+    "object": "V2 Rolling delivery wheel.001",
+    "V2_max_frame_displacement_m": 0.11428225040435791,
+    "V3_max_frame_displacement_m": 0.11428225040435791,
+    "V3_worst_frame": 1876
+  },
+  {
+    "object": "V2 Rolling delivery wheel.002",
+    "V2_max_frame_displacement_m": 0.11428225040435791,
+    "V3_max_frame_displacement_m": 0.11428225040435791,
+    "V3_worst_frame": 1876
+  },
+  {
+    "object": "V2 Rolling delivery wheel.003",
+    "V2_max_frame_displacement_m": 0.11428225040435791,
+    "V3_max_frame_displacement_m": 0.11428225040435791,
+    "V3_worst_frame": 1876
+  },
+  {
+    "object": "V2 Placed housing beam",
+    "V2_max_frame_displacement_m": 0.7057421803474426,
+    "V3_max_frame_displacement_m": 0.00678617600351572,
+    "V3_worst_frame": 1802
+  },
+  {
+    "object": "V2 Jacket",
+    "V2_max_frame_displacement_m": 0.17260530591011047,
+    "V3_max_frame_displacement_m": 0.11900115013122559,
+    "V3_worst_frame": 114
+  },
+  {
+    "object": "V2 Head",
+    "V2_max_frame_displacement_m": 0.17260530591011047,
+    "V3_max_frame_displacement_m": 0.11909353733062744,
+    "V3_worst_frame": 114
+  },
+  {
+    "object": "V2 Hair",
+    "V2_max_frame_displacement_m": 0.17260541021823883,
+    "V3_max_frame_displacement_m": 0.11882399767637253,
+    "V3_worst_frame": 114
+  },
+  {
+    "object": "V2 Thigh",
+    "V2_max_frame_displacement_m": 0.24443161487579346,
+    "V3_max_frame_displacement_m": 0.13003955781459808,
+    "V3_worst_frame": 77
+  },
+  {
+    "object": "V2 Planted shoe",
+    "V2_max_frame_displacement_m": 0.43519553542137146,
+    "V3_max_frame_displacement_m": 0.20848406851291656,
+    "V3_worst_frame": 78
+  },
+  {
+    "object": "V2 Upper arm",
+    "V2_max_frame_displacement_m": 0.2920753061771393,
+    "V3_max_frame_displacement_m": 0.15654587745666504,
+    "V3_worst_frame": 571
+  },
+  {
+    "object": "V2 Jacket.001",
+    "V2_max_frame_displacement_m": 0.17469832301139832,
+    "V3_max_frame_displacement_m": 0.1264522671699524,
+    "V3_worst_frame": 949
+  },
+  {
+    "object": "V2 Upper arm.002",
+    "V2_max_frame_displacement_m": 0.2941291928291321,
+    "V3_max_frame_displacement_m": 0.15094998478889465,
+    "V3_worst_frame": 1081
+  },
+  {
+    "object": "V2 Jacket.002",
+    "V2_max_frame_displacement_m": 0.02867119014263153,
+    "V3_max_frame_displacement_m": 0.04168687015771866,
+    "V3_worst_frame": 784
+  },
+  {
+    "object": "V2 Upper arm.004",
+    "V2_max_frame_displacement_m": 0.4239654242992401,
+    "V3_max_frame_displacement_m": 0.04168692231178284,
+    "V3_worst_frame": 784
+  },
+  {
+    "object": "V2 Jacket.003",
+    "V2_max_frame_displacement_m": 0.15063200891017914,
+    "V3_max_frame_displacement_m": 0.08258383721113205,
+    "V3_worst_frame": 1677
+  },
+  {
+    "object": "V2 Upper arm.006",
+    "V2_max_frame_displacement_m": 0.18449091911315918,
+    "V3_max_frame_displacement_m": 0.08225278556346893,
+    "V3_worst_frame": 1677
+  },
+  {
+    "object": "V2 Jacket.004",
+    "V2_max_frame_displacement_m": 0.025418423116207123,
+    "V3_max_frame_displacement_m": 0.07419726997613907,
+    "V3_worst_frame": 1735
+  },
+  {
+    "object": "V2 Upper arm.008",
+    "V2_max_frame_displacement_m": 0.2890623211860657,
+    "V3_max_frame_displacement_m": 0.09953799098730087,
+    "V3_worst_frame": 1739
+  },
+  {
+    "object": "V2 Hero banknote paper",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.1689704954624176,
+    "V3_worst_frame": 571
+  },
+  {
+    "object": "V2 Hero banknote fictional gold seal",
+    "V2_max_frame_displacement_m": 0.5927989482879639,
+    "V3_max_frame_displacement_m": 0.16897499561309814,
+    "V3_worst_frame": 571
+  },
+  {
+    "object": "V2 Low money branch",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Price sign support",
+    "V2_max_frame_displacement_m": 0.0,
+    "V3_max_frame_displacement_m": 0.0,
+    "V3_worst_frame": 2
+  },
+  {
+    "object": "V2 Delivery van.001",
+    "V2_max_frame_displacement_m": 0.11428225040435791,
+    "V3_max_frame_displacement_m": 0.11428225040435791,
+    "V3_worst_frame": 1876
+  },
+  {
+    "object": "V2 Delivery van.002",
+    "V2_max_frame_displacement_m": 0.11428225040435791,
+    "V3_max_frame_displacement_m": 0.11428225040435791,
+    "V3_worst_frame": 1876
+  },
+  {
+    "object": "V2 Hand-picked crop",
+    "V2_max_frame_displacement_m": 0.7808905839920044,
+    "V3_max_frame_displacement_m": 0.04298897087574005,
+    "V3_worst_frame": 1751
+  },
+  {
+    "object": "V2 Perspective story camera",
+    "V2_max_frame_displacement_m": 0.156807541847229,
+    "V3_max_frame_displacement_m": 0.156807541847229,
+    "V3_worst_frame": 206
+  }
+]

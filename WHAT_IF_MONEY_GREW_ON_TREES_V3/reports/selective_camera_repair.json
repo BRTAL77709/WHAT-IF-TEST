@@ -1,0 +1,17 @@
+{
+  "old_source_sha256": "801defa1daa5fb3e8f7f61463cc48e2cd159a18699a3281ca0f5b54389dee568",
+  "new_source_sha256": "d563bcf9dafa5e79d2e5ead71cab753eb42e09d09832d8d80708bcac07d07183",
+  "changed_objects": [
+    "V2 Perspective story camera"
+  ],
+  "changed_properties": [
+    "location",
+    "rotation_euler"
+  ],
+  "affected_frames": [
+    1759,
+    1836
+  ],
+  "reason": "Preview demonstrated foreground tree banknote occluding the construction worker. Corrected camera instead of moving protected geometry.",
+  "render_cache_rule": "Base render remains valid outside this shot because only these camera keys changed. Replace all affected frames with the new source before final assembly."
+}

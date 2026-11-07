@@ -1,0 +1,5 @@
+{
+  "unreachable_targets_over_2mm": [],
+  "maximum_error": 0,
+  "note": "Reach targets are clamped by fixed-length IK; target misses must be reviewed rather than hidden."
+}

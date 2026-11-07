@@ -1,0 +1,2663 @@
+{
+  "paths": [
+    [
+      [
+        0,
+        -2.7,
+        -2.35
+      ],
+      [
+        2,
+        -2.7,
+        -2.35
+      ],
+      [
+        3.6,
+        -0.3,
+        -2.35
+      ],
+      [
+        5.8,
+        -0.3,
+        -2.35
+      ],
+      [
+        8,
+        -1.9,
+        -3.3
+      ],
+      [
+        11,
+        -3.5,
+        -3.3
+      ],
+      [
+        19,
+        -3.5,
+        -3.3
+      ],
+      [
+        23,
+        3.3,
+        -5
+      ],
+      [
+        28,
+        3.3,
+        -14.05
+      ],
+      [
+        30,
+        -0.6,
+        -14.05
+      ],
+      [
+        78,
+        -0.6,
+        -14.05
+      ]
+    ],
+    [
+      [
+        0,
+        4,
+        -3
+      ],
+      [
+        8,
+        4,
+        -3
+      ],
+      [
+        11,
+        1.2,
+        -2.4
+      ],
+      [
+        13,
+        1.2,
+        -2.4
+      ],
+      [
+        17,
+        4.5,
+        -4.5
+      ],
+      [
+        24,
+        4.5,
+        -4.5
+      ],
+      [
+        31,
+        3.3,
+        -14.4
+      ],
+      [
+        34,
+        2,
+        -14.4
+      ],
+      [
+        36,
+        2,
+        -14.4
+      ],
+      [
+        38,
+        5,
+        -15
+      ],
+      [
+        78,
+        5,
+        -15
+      ]
+    ],
+    [
+      [
+        0,
+        0.5,
+        -12.27
+      ],
+      [
+        25,
+        0.5,
+        -12.27
+      ],
+      [
+        27,
+        -1.15,
+        -12.27
+      ],
+      [
+        29,
+        -1.15,
+        -12.27
+      ],
+      [
+        30.35,
+        -0.4,
+        -12.32
+      ],
+      [
+        32,
+        -0.4,
+        -12.32
+      ],
+      [
+        34,
+        0.5,
+        -12.27
+      ],
+      [
+        42,
+        0.5,
+        -12.27
+      ],
+      [
+        44,
+        0.65,
+        -12.27
+      ],
+      [
+        46,
+        0.5,
+        -12.27
+      ],
+      [
+        78,
+        0.5,
+        -12.27
+      ]
+    ],
+    [
+      [
+        0,
+        -4.8,
+        1.15
+      ],
+      [
+        54,
+        -4.8,
+        1.15
+      ],
+      [
+        56,
+        -4.1,
+        1.15
+      ],
+      [
+        59,
+        -4.1,
+        1.15
+      ],
+      [
+        62,
+        -2.15,
+        1.3
+      ],
+      [
+        78,
+        -2.15,
+        1.3
+      ]
+    ],
+    [
+      [
+        0,
+        4,
+        3
+      ],
+      [
+        55,
+        4,
+        3
+      ],
+      [
+        58,
+        4.5,
+        2.85
+      ],
+      [
+        64,
+        4.5,
+        2.85
+      ],
+      [
+        68,
+        5.5,
+        3
+      ],
+      [
+        78,
+        5.5,
+        3
+      ]
+    ],
+    [
+      [
+        0,
+        -6.7,
+        -3.8
+      ],
+      [
+        9,
+        -6.7,
+        -3.8
+      ],
+      [
+        13,
+        -2.8,
+        -2.3
+      ],
+      [
+        18,
+        -2.8,
+        -2.3
+      ],
+      [
+        18.5,
+        -2.7,
+        -4.2
+      ],
+      [
+        20,
+        -5.5,
+        -4.7
+      ],
+      [
+        23,
+        -7.0,
+        -5.6
+      ],
+      [
+        28,
+        -7.5,
+        -15
+      ],
+      [
+        31,
+        -3,
+        -17
+      ],
+      [
+        36,
+        1.1,
+        -16.2
+      ],
+      [
+        42,
+        1.1,
+        -16.2
+      ],
+      [
+        48,
+        4.0,
+        -16.1
+      ],
+      [
+        78,
+        -4,
+        -15
+      ]
+    ],
+    [
+      [
+        0,
+        5,
+        -4
+      ],
+      [
+        10,
+        5,
+        -4
+      ],
+      [
+        15,
+        3.5,
+        -1.8
+      ],
+      [
+        20,
+        3.5,
+        -1.8
+      ],
+      [
+        23,
+        5.5,
+        -3.7
+      ],
+      [
+        24,
+        5.5,
+        -4.7
+      ],
+      [
+        26,
+        5.5,
+        -4.7
+      ],
+      [
+        27.5,
+        3.4,
+        -8
+      ],
+      [
+        29.5,
+        3.4,
+        -8
+      ],
+      [
+        34,
+        3.4,
+        -16.6
+      ],
+      [
+        36,
+        4.2,
+        -16.8
+      ],
+      [
+        42,
+        4.2,
+        -16.8
+      ],
+      [
+        48,
+        5.8,
+        -15.6
+      ],
+      [
+        78,
+        5.8,
+        -15.6
+      ]
+    ]
+  ],
+  "events": [
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 66,
+      "land_frame": 76,
+      "time": 2.5
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 73,
+      "land_frame": 83,
+      "time": 2.7333333333333334
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 80,
+      "land_frame": 90,
+      "time": 2.966666666666667
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 87,
+      "land_frame": 97,
+      "time": 3.2
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 105,
+      "land_frame": 115,
+      "time": 3.8
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 112,
+      "land_frame": 122,
+      "time": 4.033333333333333
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 175,
+      "land_frame": 185,
+      "time": 6.133333333333334
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 191,
+      "land_frame": 201,
+      "time": 6.666666666666667
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 203,
+      "land_frame": 213,
+      "time": 7.066666666666666
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 216,
+      "land_frame": 226,
+      "time": 7.5
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 253,
+      "land_frame": 263,
+      "time": 8.733333333333333
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 274,
+      "land_frame": 284,
+      "time": 9.433333333333334
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 294,
+      "land_frame": 304,
+      "time": 10.1
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 325,
+      "land_frame": 335,
+      "time": 11.133333333333333
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 332,
+      "land_frame": 342,
+      "time": 11.366666666666667
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 572,
+      "land_frame": 582,
+      "time": 19.366666666666667
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 584,
+      "land_frame": 594,
+      "time": 19.766666666666666
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 592,
+      "land_frame": 602,
+      "time": 20.033333333333335
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 599,
+      "land_frame": 609,
+      "time": 20.266666666666666
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 606,
+      "land_frame": 616,
+      "time": 20.5
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 612,
+      "land_frame": 622,
+      "time": 20.7
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 617,
+      "land_frame": 627,
+      "time": 20.866666666666667
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 623,
+      "land_frame": 633,
+      "time": 21.066666666666666
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 629,
+      "land_frame": 639,
+      "time": 21.266666666666666
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 635,
+      "land_frame": 645,
+      "time": 21.466666666666665
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 641,
+      "land_frame": 651,
+      "time": 21.666666666666668
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 647,
+      "land_frame": 657,
+      "time": 21.866666666666667
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 655,
+      "land_frame": 665,
+      "time": 22.133333333333333
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 665,
+      "land_frame": 675,
+      "time": 22.466666666666665
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 692,
+      "land_frame": 702,
+      "time": 23.366666666666667
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 706,
+      "land_frame": 716,
+      "time": 23.833333333333332
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 715,
+      "land_frame": 725,
+      "time": 24.133333333333333
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 722,
+      "land_frame": 732,
+      "time": 24.366666666666667
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 729,
+      "land_frame": 739,
+      "time": 24.6
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 735,
+      "land_frame": 745,
+      "time": 24.8
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 741,
+      "land_frame": 751,
+      "time": 25.0
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 747,
+      "land_frame": 757,
+      "time": 25.2
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 752,
+      "land_frame": 762,
+      "time": 25.366666666666667
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 758,
+      "land_frame": 768,
+      "time": 25.566666666666666
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 763,
+      "land_frame": 773,
+      "time": 25.733333333333334
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 769,
+      "land_frame": 779,
+      "time": 25.933333333333334
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 775,
+      "land_frame": 785,
+      "time": 26.133333333333333
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 781,
+      "land_frame": 791,
+      "time": 26.333333333333332
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 787,
+      "land_frame": 797,
+      "time": 26.533333333333335
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 794,
+      "land_frame": 804,
+      "time": 26.766666666666666
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 802,
+      "land_frame": 812,
+      "time": 27.033333333333335
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 812,
+      "land_frame": 822,
+      "time": 27.366666666666667
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 837,
+      "land_frame": 847,
+      "time": 28.2
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 846,
+      "land_frame": 856,
+      "time": 28.5
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 852,
+      "land_frame": 862,
+      "time": 28.7
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 858,
+      "land_frame": 868,
+      "time": 28.9
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 863,
+      "land_frame": 873,
+      "time": 29.066666666666666
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 869,
+      "land_frame": 878,
+      "time": 29.233333333333334
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 874,
+      "land_frame": 884,
+      "time": 29.433333333333334
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 881,
+      "land_frame": 891,
+      "time": 29.666666666666668
+    },
+    {
+      "actor": 0,
+      "side": 0,
+      "begin_frame": 897,
+      "land_frame": 907,
+      "time": 30.2
+    },
+    {
+      "actor": 0,
+      "side": 1,
+      "begin_frame": 904,
+      "land_frame": 914,
+      "time": 30.433333333333334
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 255,
+      "land_frame": 265,
+      "time": 8.8
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 267,
+      "land_frame": 277,
+      "time": 9.2
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 278,
+      "land_frame": 288,
+      "time": 9.566666666666666
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 289,
+      "land_frame": 299,
+      "time": 9.933333333333334
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 301,
+      "land_frame": 311,
+      "time": 10.333333333333334
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 326,
+      "land_frame": 336,
+      "time": 11.166666666666666
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 333,
+      "land_frame": 343,
+      "time": 11.4
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 395,
+      "land_frame": 405,
+      "time": 13.466666666666667
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 412,
+      "land_frame": 422,
+      "time": 14.033333333333333
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 424,
+      "land_frame": 434,
+      "time": 14.433333333333334
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 435,
+      "land_frame": 445,
+      "time": 14.8
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 445,
+      "land_frame": 455,
+      "time": 15.133333333333333
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 456,
+      "land_frame": 466,
+      "time": 15.5
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 467,
+      "land_frame": 477,
+      "time": 15.866666666666667
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 482,
+      "land_frame": 492,
+      "time": 16.366666666666667
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 506,
+      "land_frame": 516,
+      "time": 17.166666666666668
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 513,
+      "land_frame": 523,
+      "time": 17.4
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 730,
+      "land_frame": 740,
+      "time": 24.633333333333333
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 746,
+      "land_frame": 756,
+      "time": 25.166666666666668
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 757,
+      "land_frame": 767,
+      "time": 25.533333333333335
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 767,
+      "land_frame": 777,
+      "time": 25.866666666666667
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 776,
+      "land_frame": 786,
+      "time": 26.166666666666668
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 784,
+      "land_frame": 794,
+      "time": 26.433333333333334
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 791,
+      "land_frame": 801,
+      "time": 26.666666666666668
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 799,
+      "land_frame": 809,
+      "time": 26.933333333333334
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 806,
+      "land_frame": 816,
+      "time": 27.166666666666668
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 813,
+      "land_frame": 823,
+      "time": 27.4
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 820,
+      "land_frame": 830,
+      "time": 27.633333333333333
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 827,
+      "land_frame": 837,
+      "time": 27.866666666666667
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 834,
+      "land_frame": 844,
+      "time": 28.1
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 841,
+      "land_frame": 851,
+      "time": 28.333333333333332
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 849,
+      "land_frame": 859,
+      "time": 28.6
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 857,
+      "land_frame": 867,
+      "time": 28.866666666666667
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 866,
+      "land_frame": 876,
+      "time": 29.166666666666668
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 875,
+      "land_frame": 885,
+      "time": 29.466666666666665
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 886,
+      "land_frame": 896,
+      "time": 29.833333333333332
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 902,
+      "land_frame": 912,
+      "time": 30.366666666666667
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 947,
+      "land_frame": 957,
+      "time": 31.866666666666667
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 971,
+      "land_frame": 981,
+      "time": 32.666666666666664
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 1001,
+      "land_frame": 1011,
+      "time": 33.666666666666664
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 1015,
+      "land_frame": 1025,
+      "time": 34.13333333333333
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 1022,
+      "land_frame": 1032,
+      "time": 34.36666666666667
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 1086,
+      "land_frame": 1096,
+      "time": 36.5
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 1094,
+      "land_frame": 1104,
+      "time": 36.766666666666666
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 1100,
+      "land_frame": 1110,
+      "time": 36.96666666666667
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 1107,
+      "land_frame": 1117,
+      "time": 37.2
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 1114,
+      "land_frame": 1124,
+      "time": 37.43333333333333
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 1125,
+      "land_frame": 1135,
+      "time": 37.8
+    },
+    {
+      "actor": 1,
+      "side": 0,
+      "begin_frame": 1137,
+      "land_frame": 1147,
+      "time": 38.2
+    },
+    {
+      "actor": 1,
+      "side": 1,
+      "begin_frame": 1144,
+      "land_frame": 1154,
+      "time": 38.43333333333333
+    },
+    {
+      "actor": 2,
+      "side": 0,
+      "begin_frame": 755,
+      "land_frame": 765,
+      "time": 25.466666666666665
+    },
+    {
+      "actor": 2,
+      "side": 1,
+      "begin_frame": 765,
+      "land_frame": 775,
+      "time": 25.8
+    },
+    {
+      "actor": 2,
+      "side": 0,
+      "begin_frame": 774,
+      "land_frame": 784,
+      "time": 26.1
+    },
+    {
+      "actor": 2,
+      "side": 1,
+      "begin_frame": 784,
+      "land_frame": 794,
+      "time": 26.433333333333334
+    },
+    {
+      "actor": 2,
+      "side": 0,
+      "begin_frame": 805,
+      "land_frame": 815,
+      "time": 27.133333333333333
+    },
+    {
+      "actor": 2,
+      "side": 1,
+      "begin_frame": 812,
+      "land_frame": 822,
+      "time": 27.366666666666667
+    },
+    {
+      "actor": 2,
+      "side": 0,
+      "begin_frame": 875,
+      "land_frame": 885,
+      "time": 29.466666666666665
+    },
+    {
+      "actor": 2,
+      "side": 1,
+      "begin_frame": 889,
+      "land_frame": 899,
+      "time": 29.933333333333334
+    },
+    {
+      "actor": 2,
+      "side": 0,
+      "begin_frame": 906,
+      "land_frame": 916,
+      "time": 30.5
+    },
+    {
+      "actor": 2,
+      "side": 1,
+      "begin_frame": 913,
+      "land_frame": 923,
+      "time": 30.733333333333334
+    },
+    {
+      "actor": 2,
+      "side": 0,
+      "begin_frame": 970,
+      "land_frame": 980,
+      "time": 32.63333333333333
+    },
+    {
+      "actor": 2,
+      "side": 1,
+      "begin_frame": 987,
+      "land_frame": 997,
+      "time": 33.2
+    },
+    {
+      "actor": 2,
+      "side": 0,
+      "begin_frame": 1015,
+      "land_frame": 1025,
+      "time": 34.13333333333333
+    },
+    {
+      "actor": 2,
+      "side": 1,
+      "begin_frame": 1022,
+      "land_frame": 1032,
+      "time": 34.36666666666667
+    },
+    {
+      "actor": 2,
+      "side": 0,
+      "begin_frame": 1311,
+      "land_frame": 1321,
+      "time": 44.0
+    },
+    {
+      "actor": 2,
+      "side": 1,
+      "begin_frame": 1318,
+      "land_frame": 1328,
+      "time": 44.233333333333334
+    },
+    {
+      "actor": 2,
+      "side": 0,
+      "begin_frame": 1371,
+      "land_frame": 1381,
+      "time": 46.0
+    },
+    {
+      "actor": 2,
+      "side": 1,
+      "begin_frame": 1378,
+      "land_frame": 1388,
+      "time": 46.233333333333334
+    },
+    {
+      "actor": 3,
+      "side": 1,
+      "begin_frame": 1647,
+      "land_frame": 1657,
+      "time": 55.2
+    },
+    {
+      "actor": 3,
+      "side": 0,
+      "begin_frame": 1675,
+      "land_frame": 1685,
+      "time": 56.13333333333333
+    },
+    {
+      "actor": 3,
+      "side": 1,
+      "begin_frame": 1682,
+      "land_frame": 1692,
+      "time": 56.36666666666667
+    },
+    {
+      "actor": 3,
+      "side": 0,
+      "begin_frame": 1778,
+      "land_frame": 1788,
+      "time": 59.56666666666667
+    },
+    {
+      "actor": 3,
+      "side": 1,
+      "begin_frame": 1795,
+      "land_frame": 1805,
+      "time": 60.13333333333333
+    },
+    {
+      "actor": 3,
+      "side": 0,
+      "begin_frame": 1808,
+      "land_frame": 1818,
+      "time": 60.56666666666667
+    },
+    {
+      "actor": 3,
+      "side": 1,
+      "begin_frame": 1822,
+      "land_frame": 1832,
+      "time": 61.03333333333333
+    },
+    {
+      "actor": 3,
+      "side": 0,
+      "begin_frame": 1841,
+      "land_frame": 1851,
+      "time": 61.666666666666664
+    },
+    {
+      "actor": 3,
+      "side": 0,
+      "begin_frame": 1856,
+      "land_frame": 1866,
+      "time": 62.166666666666664
+    },
+    {
+      "actor": 3,
+      "side": 1,
+      "begin_frame": 1863,
+      "land_frame": 1873,
+      "time": 62.4
+    },
+    {
+      "actor": 4,
+      "side": 1,
+      "begin_frame": 1717,
+      "land_frame": 1727,
+      "time": 57.53333333333333
+    },
+    {
+      "actor": 4,
+      "side": 0,
+      "begin_frame": 1733,
+      "land_frame": 1743,
+      "time": 58.06666666666667
+    },
+    {
+      "actor": 4,
+      "side": 1,
+      "begin_frame": 1740,
+      "land_frame": 1750,
+      "time": 58.3
+    },
+    {
+      "actor": 4,
+      "side": 0,
+      "begin_frame": 1949,
+      "land_frame": 1959,
+      "time": 65.26666666666667
+    },
+    {
+      "actor": 4,
+      "side": 1,
+      "begin_frame": 1970,
+      "land_frame": 1980,
+      "time": 65.96666666666667
+    },
+    {
+      "actor": 4,
+      "side": 0,
+      "begin_frame": 1990,
+      "land_frame": 2000,
+      "time": 66.63333333333334
+    },
+    {
+      "actor": 4,
+      "side": 1,
+      "begin_frame": 2020,
+      "land_frame": 2030,
+      "time": 67.63333333333334
+    },
+    {
+      "actor": 4,
+      "side": 0,
+      "begin_frame": 2034,
+      "land_frame": 2044,
+      "time": 68.1
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 277,
+      "land_frame": 287,
+      "time": 9.533333333333333
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 289,
+      "land_frame": 299,
+      "time": 9.933333333333334
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 298,
+      "land_frame": 308,
+      "time": 10.233333333333333
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 306,
+      "land_frame": 316,
+      "time": 10.5
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 314,
+      "land_frame": 324,
+      "time": 10.766666666666667
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 321,
+      "land_frame": 331,
+      "time": 11.0
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 328,
+      "land_frame": 338,
+      "time": 11.233333333333333
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 335,
+      "land_frame": 345,
+      "time": 11.466666666666667
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 343,
+      "land_frame": 353,
+      "time": 11.733333333333333
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 352,
+      "land_frame": 362,
+      "time": 12.033333333333333
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 363,
+      "land_frame": 373,
+      "time": 12.4
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 385,
+      "land_frame": 395,
+      "time": 13.133333333333333
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 392,
+      "land_frame": 402,
+      "time": 13.366666666666667
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 534,
+      "land_frame": 544,
+      "time": 18.1
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 537,
+      "land_frame": 547,
+      "time": 18.2
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 545,
+      "land_frame": 549,
+      "time": 18.266666666666666
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 548,
+      "land_frame": 551,
+      "time": 18.333333333333332
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 550,
+      "land_frame": 554,
+      "time": 18.433333333333334
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 553,
+      "land_frame": 563,
+      "time": 18.733333333333334
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 559,
+      "land_frame": 569,
+      "time": 18.933333333333334
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 564,
+      "land_frame": 573,
+      "time": 19.066666666666666
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 570,
+      "land_frame": 577,
+      "time": 19.2
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 574,
+      "land_frame": 581,
+      "time": 19.333333333333332
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 578,
+      "land_frame": 585,
+      "time": 19.466666666666665
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 582,
+      "land_frame": 590,
+      "time": 19.633333333333333
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 587,
+      "land_frame": 597,
+      "time": 19.866666666666667
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 614,
+      "land_frame": 624,
+      "time": 20.766666666666666
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 629,
+      "land_frame": 639,
+      "time": 21.266666666666666
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 641,
+      "land_frame": 651,
+      "time": 21.666666666666668
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 655,
+      "land_frame": 665,
+      "time": 22.133333333333333
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 684,
+      "land_frame": 694,
+      "time": 23.1
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 700,
+      "land_frame": 710,
+      "time": 23.633333333333333
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 707,
+      "land_frame": 717,
+      "time": 23.866666666666667
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 714,
+      "land_frame": 724,
+      "time": 24.1
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 719,
+      "land_frame": 729,
+      "time": 24.266666666666666
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 725,
+      "land_frame": 734,
+      "time": 24.433333333333334
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 730,
+      "land_frame": 739,
+      "time": 24.6
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 735,
+      "land_frame": 743,
+      "time": 24.733333333333334
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 740,
+      "land_frame": 748,
+      "time": 24.9
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 744,
+      "land_frame": 752,
+      "time": 25.033333333333335
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 749,
+      "land_frame": 756,
+      "time": 25.166666666666668
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 753,
+      "land_frame": 760,
+      "time": 25.3
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 757,
+      "land_frame": 764,
+      "time": 25.433333333333334
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 761,
+      "land_frame": 768,
+      "time": 25.566666666666666
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 765,
+      "land_frame": 772,
+      "time": 25.7
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 769,
+      "land_frame": 776,
+      "time": 25.833333333333332
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 773,
+      "land_frame": 780,
+      "time": 25.966666666666665
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 777,
+      "land_frame": 784,
+      "time": 26.1
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 781,
+      "land_frame": 788,
+      "time": 26.233333333333334
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 785,
+      "land_frame": 792,
+      "time": 26.366666666666667
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 789,
+      "land_frame": 797,
+      "time": 26.533333333333335
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 793,
+      "land_frame": 802,
+      "time": 26.7
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 798,
+      "land_frame": 807,
+      "time": 26.866666666666667
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 803,
+      "land_frame": 813,
+      "time": 27.066666666666666
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 810,
+      "land_frame": 820,
+      "time": 27.3
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 820,
+      "land_frame": 830,
+      "time": 27.633333333333333
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 843,
+      "land_frame": 853,
+      "time": 28.4
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 851,
+      "land_frame": 861,
+      "time": 28.666666666666668
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 857,
+      "land_frame": 867,
+      "time": 28.866666666666667
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 862,
+      "land_frame": 872,
+      "time": 29.033333333333335
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 868,
+      "land_frame": 877,
+      "time": 29.2
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 873,
+      "land_frame": 882,
+      "time": 29.366666666666667
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 878,
+      "land_frame": 886,
+      "time": 29.5
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 883,
+      "land_frame": 891,
+      "time": 29.666666666666668
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 887,
+      "land_frame": 895,
+      "time": 29.8
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 892,
+      "land_frame": 900,
+      "time": 29.966666666666665
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 896,
+      "land_frame": 905,
+      "time": 30.133333333333333
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 901,
+      "land_frame": 911,
+      "time": 30.333333333333332
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 909,
+      "land_frame": 919,
+      "time": 30.6
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 936,
+      "land_frame": 946,
+      "time": 31.5
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 953,
+      "land_frame": 963,
+      "time": 32.06666666666667
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 965,
+      "land_frame": 975,
+      "time": 32.46666666666667
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 975,
+      "land_frame": 985,
+      "time": 32.8
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 984,
+      "land_frame": 994,
+      "time": 33.1
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 993,
+      "land_frame": 1003,
+      "time": 33.4
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1002,
+      "land_frame": 1012,
+      "time": 33.7
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1011,
+      "land_frame": 1021,
+      "time": 34.0
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1021,
+      "land_frame": 1031,
+      "time": 34.333333333333336
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1031,
+      "land_frame": 1041,
+      "time": 34.666666666666664
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1044,
+      "land_frame": 1054,
+      "time": 35.1
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1069,
+      "land_frame": 1079,
+      "time": 35.93333333333333
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1081,
+      "land_frame": 1091,
+      "time": 36.333333333333336
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1280,
+      "land_frame": 1290,
+      "time": 42.96666666666667
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1303,
+      "land_frame": 1313,
+      "time": 43.733333333333334
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1320,
+      "land_frame": 1330,
+      "time": 44.3
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1336,
+      "land_frame": 1346,
+      "time": 44.833333333333336
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1351,
+      "land_frame": 1361,
+      "time": 45.333333333333336
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1367,
+      "land_frame": 1377,
+      "time": 45.86666666666667
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1385,
+      "land_frame": 1395,
+      "time": 46.46666666666667
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1410,
+      "land_frame": 1420,
+      "time": 47.3
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1433,
+      "land_frame": 1443,
+      "time": 48.06666666666667
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1440,
+      "land_frame": 1450,
+      "time": 48.3
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1517,
+      "land_frame": 1527,
+      "time": 50.86666666666667
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1579,
+      "land_frame": 1589,
+      "time": 52.93333333333333
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1624,
+      "land_frame": 1634,
+      "time": 54.43333333333333
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1662,
+      "land_frame": 1672,
+      "time": 55.7
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1696,
+      "land_frame": 1706,
+      "time": 56.833333333333336
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1728,
+      "land_frame": 1738,
+      "time": 57.9
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1759,
+      "land_frame": 1769,
+      "time": 58.93333333333333
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1788,
+      "land_frame": 1798,
+      "time": 59.9
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1816,
+      "land_frame": 1826,
+      "time": 60.833333333333336
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1844,
+      "land_frame": 1854,
+      "time": 61.766666666666666
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1872,
+      "land_frame": 1882,
+      "time": 62.7
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1899,
+      "land_frame": 1909,
+      "time": 63.6
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1927,
+      "land_frame": 1937,
+      "time": 64.53333333333333
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 1955,
+      "land_frame": 1965,
+      "time": 65.46666666666667
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 1983,
+      "land_frame": 1993,
+      "time": 66.4
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 2013,
+      "land_frame": 2023,
+      "time": 67.4
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 2044,
+      "land_frame": 2054,
+      "time": 68.43333333333334
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 2076,
+      "land_frame": 2086,
+      "time": 69.5
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 2112,
+      "land_frame": 2122,
+      "time": 70.7
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 2152,
+      "land_frame": 2162,
+      "time": 72.03333333333333
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 2200,
+      "land_frame": 2210,
+      "time": 73.63333333333334
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 2273,
+      "land_frame": 2283,
+      "time": 76.06666666666666
+    },
+    {
+      "actor": 5,
+      "side": 0,
+      "begin_frame": 2320,
+      "land_frame": 2330,
+      "time": 77.63333333333334
+    },
+    {
+      "actor": 5,
+      "side": 1,
+      "begin_frame": 2327,
+      "land_frame": 2337,
+      "time": 77.86666666666666
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 317,
+      "land_frame": 327,
+      "time": 10.866666666666667
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 336,
+      "land_frame": 346,
+      "time": 11.5
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 352,
+      "land_frame": 362,
+      "time": 12.033333333333333
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 366,
+      "land_frame": 376,
+      "time": 12.5
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 380,
+      "land_frame": 390,
+      "time": 12.966666666666667
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 395,
+      "land_frame": 405,
+      "time": 13.466666666666667
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 414,
+      "land_frame": 424,
+      "time": 14.1
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 444,
+      "land_frame": 454,
+      "time": 15.1
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 451,
+      "land_frame": 461,
+      "time": 15.333333333333334
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 606,
+      "land_frame": 616,
+      "time": 20.5
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 618,
+      "land_frame": 628,
+      "time": 20.9
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 627,
+      "land_frame": 637,
+      "time": 21.2
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 635,
+      "land_frame": 645,
+      "time": 21.466666666666665
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 643,
+      "land_frame": 653,
+      "time": 21.733333333333334
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 652,
+      "land_frame": 662,
+      "time": 22.033333333333335
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 662,
+      "land_frame": 672,
+      "time": 22.366666666666667
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 684,
+      "land_frame": 694,
+      "time": 23.1
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 695,
+      "land_frame": 705,
+      "time": 23.466666666666665
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 702,
+      "land_frame": 712,
+      "time": 23.7
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 716,
+      "land_frame": 726,
+      "time": 24.166666666666668
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 723,
+      "land_frame": 733,
+      "time": 24.4
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 778,
+      "land_frame": 788,
+      "time": 26.233333333333334
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 782,
+      "land_frame": 792,
+      "time": 26.366666666666667
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 789,
+      "land_frame": 796,
+      "time": 26.5
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 793,
+      "land_frame": 799,
+      "time": 26.6
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 797,
+      "land_frame": 802,
+      "time": 26.7
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 800,
+      "land_frame": 805,
+      "time": 26.8
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 803,
+      "land_frame": 808,
+      "time": 26.9
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 806,
+      "land_frame": 811,
+      "time": 27.0
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 809,
+      "land_frame": 814,
+      "time": 27.1
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 812,
+      "land_frame": 818,
+      "time": 27.233333333333334
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 816,
+      "land_frame": 826,
+      "time": 27.5
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 829,
+      "land_frame": 839,
+      "time": 27.933333333333334
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 889,
+      "land_frame": 899,
+      "time": 29.933333333333334
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 898,
+      "land_frame": 908,
+      "time": 30.233333333333334
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 904,
+      "land_frame": 914,
+      "time": 30.433333333333334
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 910,
+      "land_frame": 920,
+      "time": 30.633333333333333
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 915,
+      "land_frame": 925,
+      "time": 30.8
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 921,
+      "land_frame": 929,
+      "time": 30.933333333333334
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 926,
+      "land_frame": 934,
+      "time": 31.1
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 930,
+      "land_frame": 938,
+      "time": 31.233333333333334
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 935,
+      "land_frame": 942,
+      "time": 31.366666666666667
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 939,
+      "land_frame": 946,
+      "time": 31.5
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 943,
+      "land_frame": 950,
+      "time": 31.633333333333333
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 947,
+      "land_frame": 954,
+      "time": 31.766666666666666
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 951,
+      "land_frame": 958,
+      "time": 31.9
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 955,
+      "land_frame": 961,
+      "time": 32.0
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 959,
+      "land_frame": 965,
+      "time": 32.13333333333333
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 962,
+      "land_frame": 969,
+      "time": 32.266666666666666
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 966,
+      "land_frame": 974,
+      "time": 32.43333333333333
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 970,
+      "land_frame": 978,
+      "time": 32.56666666666667
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 975,
+      "land_frame": 983,
+      "time": 32.733333333333334
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 979,
+      "land_frame": 987,
+      "time": 32.86666666666667
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 984,
+      "land_frame": 993,
+      "time": 33.06666666666667
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 989,
+      "land_frame": 999,
+      "time": 33.266666666666666
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 998,
+      "land_frame": 1008,
+      "time": 33.56666666666667
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 1025,
+      "land_frame": 1035,
+      "time": 34.46666666666667
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 1045,
+      "land_frame": 1055,
+      "time": 35.13333333333333
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 1075,
+      "land_frame": 1085,
+      "time": 36.13333333333333
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 1082,
+      "land_frame": 1092,
+      "time": 36.36666666666667
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 1287,
+      "land_frame": 1297,
+      "time": 43.2
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 1315,
+      "land_frame": 1325,
+      "time": 44.13333333333333
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 1338,
+      "land_frame": 1348,
+      "time": 44.9
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 1361,
+      "land_frame": 1371,
+      "time": 45.666666666666664
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 1386,
+      "land_frame": 1396,
+      "time": 46.5
+    },
+    {
+      "actor": 6,
+      "side": 1,
+      "begin_frame": 1432,
+      "land_frame": 1442,
+      "time": 48.03333333333333
+    },
+    {
+      "actor": 6,
+      "side": 0,
+      "begin_frame": 1439,
+      "land_frame": 1449,
+      "time": 48.266666666666666
+    }
+  ],
+  "note": "Continuous scheduled swings finish at stops; world-space stance anchors. V2 soundtrack is unchanged; no new Foley is synthesized."
+}

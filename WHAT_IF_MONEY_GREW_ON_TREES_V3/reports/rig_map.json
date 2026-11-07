@@ -1,0 +1,240 @@
+[
+  {
+    "root": "V2 Actor 0 ROOT",
+    "torso": "V2 Jacket",
+    "head": "V2 Head",
+    "hair": "V2 Hair",
+    "eyes": [
+      "V2 Eye",
+      "V2 Eye.001"
+    ],
+    "legs": [
+      [
+        "V2 Thigh",
+        "V2 Shin",
+        "V2 Planted shoe"
+      ],
+      [
+        "V2 Thigh.001",
+        "V2 Shin.001",
+        "V2 Planted shoe.001"
+      ]
+    ],
+    "arms": [
+      [
+        "V2 Upper arm",
+        "V2 Forearm",
+        "V2 Contact hand"
+      ],
+      [
+        "V2 Upper arm.001",
+        "V2 Forearm.001",
+        "V2 Contact hand.001"
+      ]
+    ]
+  },
+  {
+    "root": "V2 Actor 1 ROOT",
+    "torso": "V2 Jacket.001",
+    "head": "V2 Head.001",
+    "hair": "V2 Hair.001",
+    "eyes": [
+      "V2 Eye.002",
+      "V2 Eye.003"
+    ],
+    "legs": [
+      [
+        "V2 Thigh.002",
+        "V2 Shin.002",
+        "V2 Planted shoe.002"
+      ],
+      [
+        "V2 Thigh.003",
+        "V2 Shin.003",
+        "V2 Planted shoe.003"
+      ]
+    ],
+    "arms": [
+      [
+        "V2 Upper arm.002",
+        "V2 Forearm.002",
+        "V2 Contact hand.002"
+      ],
+      [
+        "V2 Upper arm.003",
+        "V2 Forearm.003",
+        "V2 Contact hand.003"
+      ]
+    ]
+  },
+  {
+    "root": "V2 Actor 2 ROOT",
+    "torso": "V2 Jacket.002",
+    "head": "V2 Head.002",
+    "hair": "V2 Hair.002",
+    "eyes": [
+      "V2 Eye.004",
+      "V2 Eye.005"
+    ],
+    "legs": [
+      [
+        "V2 Thigh.004",
+        "V2 Shin.004",
+        "V2 Planted shoe.004"
+      ],
+      [
+        "V2 Thigh.005",
+        "V2 Shin.005",
+        "V2 Planted shoe.005"
+      ]
+    ],
+    "arms": [
+      [
+        "V2 Upper arm.004",
+        "V2 Forearm.004",
+        "V2 Contact hand.004"
+      ],
+      [
+        "V2 Upper arm.005",
+        "V2 Forearm.005",
+        "V2 Contact hand.005"
+      ]
+    ]
+  },
+  {
+    "root": "V2 Actor 3 ROOT",
+    "torso": "V2 Jacket.003",
+    "head": "V2 Head.003",
+    "hair": "V2 Hair.003",
+    "eyes": [
+      "V2 Eye.006",
+      "V2 Eye.007"
+    ],
+    "legs": [
+      [
+        "V2 Thigh.006",
+        "V2 Shin.006",
+        "V2 Planted shoe.006"
+      ],
+      [
+        "V2 Thigh.007",
+        "V2 Shin.007",
+        "V2 Planted shoe.007"
+      ]
+    ],
+    "arms": [
+      [
+        "V2 Upper arm.006",
+        "V2 Forearm.006",
+        "V2 Contact hand.006"
+      ],
+      [
+        "V2 Upper arm.007",
+        "V2 Forearm.007",
+        "V2 Contact hand.007"
+      ]
+    ]
+  },
+  {
+    "root": "V2 Actor 4 ROOT",
+    "torso": "V2 Jacket.004",
+    "head": "V2 Head.004",
+    "hair": "V2 Hair.004",
+    "eyes": [
+      "V2 Eye.008",
+      "V2 Eye.009"
+    ],
+    "legs": [
+      [
+        "V2 Thigh.008",
+        "V2 Shin.008",
+        "V2 Planted shoe.008"
+      ],
+      [
+        "V2 Thigh.009",
+        "V2 Shin.009",
+        "V2 Planted shoe.009"
+      ]
+    ],
+    "arms": [
+      [
+        "V2 Upper arm.008",
+        "V2 Forearm.008",
+        "V2 Contact hand.008"
+      ],
+      [
+        "V2 Upper arm.009",
+        "V2 Forearm.009",
+        "V2 Contact hand.009"
+      ]
+    ]
+  },
+  {
+    "root": "V2 Actor 5 ROOT",
+    "torso": "V2 Jacket.005",
+    "head": "V2 Head.005",
+    "hair": "V2 Hair.005",
+    "eyes": [
+      "V2 Eye.010",
+      "V2 Eye.011"
+    ],
+    "legs": [
+      [
+        "V2 Thigh.010",
+        "V2 Shin.010",
+        "V2 Planted shoe.010"
+      ],
+      [
+        "V2 Thigh.011",
+        "V2 Shin.011",
+        "V2 Planted shoe.011"
+      ]
+    ],
+    "arms": [
+      [
+        "V2 Upper arm.010",
+        "V2 Forearm.010",
+        "V2 Contact hand.010"
+      ],
+      [
+        "V2 Upper arm.011",
+        "V2 Forearm.011",
+        "V2 Contact hand.011"
+      ]
+    ]
+  },
+  {
+    "root": "V2 Actor 6 ROOT",
+    "torso": "V2 Jacket.006",
+    "head": "V2 Head.006",
+    "hair": "V2 Hair.006",
+    "eyes": [
+      "V2 Eye.012",
+      "V2 Eye.013"
+    ],
+    "legs": [
+      [
+        "V2 Thigh.012",
+        "V2 Shin.012",
+        "V2 Planted shoe.012"
+      ],
+      [
+        "V2 Thigh.013",
+        "V2 Shin.013",
+        "V2 Planted shoe.013"
+      ]
+    ],
+    "arms": [
+      [
+        "V2 Upper arm.012",
+        "V2 Forearm.012",
+        "V2 Contact hand.012"
+      ],
+      [
+        "V2 Upper arm.013",
+        "V2 Forearm.013",
+        "V2 Contact hand.013"
+      ]
+    ]
+  }
+]

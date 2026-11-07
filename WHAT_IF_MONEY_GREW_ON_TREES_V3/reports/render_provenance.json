@@ -1,0 +1,10 @@
+{
+  "final_scene_sha256": "d563bcf9dafa5e79d2e5ead71cab753eb42e09d09832d8d80708bcac07d07183",
+  "native_frames": 2340,
+  "base_source_sha256": "801defa1daa5fb3e8f7f61463cc48e2cd159a18699a3281ca0f5b54389dee568",
+  "selectively_replaced_frames": [
+    1759,
+    1836
+  ],
+  "all_other_frames": "From the same V3 motion revision; only camera keys within the replaced range changed. No V2 frames reused."
+}

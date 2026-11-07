@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Dialogue,DejaVu Sans,43,&H00F8F8F0,&H000000FF,&H00201810,&H88201810,-1,0,0,0,100,100,0,0,1,2.4,1,2,75,75,160,1
+Style: Title,DejaVu Sans,61,&H00ECF4ED,&H000000FF,&H00302412,&H88302412,-1,0,0,0,100,100,0,0,1,2,1,8,65,65,110,1
+Style: Small,DejaVu Sans,25,&H00D4E2D0,&H000000FF,&H00302412,&H88302412,0,0,0,0,100,100,0,0,1,1.5,0,8,65,65,90,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.25,0:00:02.51,Dialogue,,0,0,0,,What if money actually grew on trees?
+Dialogue: 0,0:00:02.75,0:00:04.62,Dialogue,,0,0,0,,One leaf could change everything.
+Dialogue: 0,0:00:08.25,0:00:09.98,Dialogue,,0,0,0,,At first, people would race
+Dialogue: 0,0:00:10.22,0:00:11.76,Dialogue,,0,0,0,,to harvest a fortune.
+Dialogue: 0,0:00:16.25,0:00:17.73,Dialogue,,0,0,0,,Then more trees bloom.
+Dialogue: 0,0:00:17.97,0:00:19.81,Dialogue,,0,0,0,,Soon, cash is everywhere.
+Dialogue: 0,0:00:24.25,0:00:25.81,Dialogue,,0,0,0,,Everyone can spend more.
+Dialogue: 0,0:00:26.05,0:00:27.82,Dialogue,,0,0,0,,But the shelves have not grown.
+Dialogue: 0,0:00:32.25,0:00:34.30,Dialogue,,0,0,0,,More money cannot instantly create
+Dialogue: 0,0:00:34.54,0:00:36.63,Dialogue,,0,0,0,,more bread, homes, or workers.
+Dialogue: 0,0:00:40.25,0:00:42.36,Dialogue,,0,0,0,,With the same goods and far more cash,
+Dialogue: 0,0:00:42.60,0:00:43.89,Dialogue,,0,0,0,,prices could soar.
+Dialogue: 0,0:00:48.25,0:00:50.45,Dialogue,,0,0,0,,A mountain of banknotes might barely buy
+Dialogue: 0,0:00:50.69,0:00:51.91,Dialogue,,0,0,0,,a single loaf.
+Dialogue: 0,0:00:56.25,0:00:58.26,Dialogue,,0,0,0,,Real wealth comes from growing food,
+Dialogue: 0,0:00:58.50,0:01:01.29,Dialogue,,0,0,0,,building homes, and delivering what people need.
+Dialogue: 0,0:01:04.25,0:01:06.70,Dialogue,,0,0,0,,Even a millionaire could face an empty shop,
+Dialogue: 0,0:01:06.94,0:01:08.35,Dialogue,,0,0,0,,and go home hungry.
+Dialogue: 0,0:01:12.25,0:01:13.72,Dialogue,,0,0,0,,Would you want this world?
+Dialogue: 0,0:01:13.96,0:01:15.56,Dialogue,,0,0,0,,Tell us: yes or no.
+Dialogue: 0,0:00:00.00,0:00:02.00,Small,,0,0,0,,WHAT IF / MONEY TREES
+Dialogue: 0,0:00:40.00,0:00:48.00,Small,,0,0,0,,ILLUSTRATIVE SCENARIO — NOT A FORECAST
+Dialogue: 0,0:01:12.20,0:01:17.60,Title,,0,0,0,,WHAT IF MONEY\NGREW ON TREES?\N\NWOULD YOU WANT THIS WORLD?\N\NYES / NO

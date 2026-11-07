@@ -1,0 +1,16 @@
+{
+  "status": "TECHNICAL PASS",
+  "assets_preserved": true,
+  "mesh_topology_positions_materials_unchanged": true,
+  "object_names_parents_unchanged": true,
+  "static_layout_unchanged": true,
+  "max_joint_gap_m": 5.340789872868774e-05,
+  "max_limb_length_error_m": 3.4943772166950993e-06,
+  "max_held_note_grip_distance_m": 0.0,
+  "max_stance_drift_per_frame_m": 2.384185791015625e-07,
+  "minimum_actor_root_separation_m": 0.6823864443828395,
+  "minimum_actor_root_separation_frame": 353,
+  "camera_near_surface_frames": [],
+  "body_near_surface_flags": [],
+  "screening_limits": "Nearest surfaces are screening flags, not certified full swept-volume collisions. All-frame transform and joint checks do not certify every stylized pose or artistic criterion."
+}
