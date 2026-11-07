@@ -9,7 +9,7 @@ for p in files:
 if entries:
  c,t=request('/git/trees','POST',{'base_tree':commit['tree']['sha'],'tree':entries});assert c==201;c,j=request('/git/commits','POST',{'message':'Checkpoint V4 timeline audit and source repairs; preserve V1-V3','tree':t['sha'],'parents':[head]});assert c==201;head=j['sha'];c,j=request('/git/refs/heads/'+BRANCH,'PATCH',{'sha':head,'force':False});assert c==200
 if '--blend' in sys.argv:
- validation=json.loads((R/'reports/scene_validation.json').read_text());assert validation['status']=='TECHNICAL PASS'
+ validation=json.loads((R/'reports/scene_validation.json').read_text());assert validation['status']=='TECHNICAL PASS';assert validation['source_blend_sha256']==hashlib.sha256((R/'blender/WHAT_IF_MONEY_GREW_ON_TREES_V4.blend').read_bytes()).hexdigest()
  archive=R/'recovery/V4_VALIDATED_SOURCE.zip';paths=[*R.glob('*.md'),*R.glob('scripts/*.py'),*R.glob('blender/*.blend'),*R.glob('subtitles/*'),*R.glob('audio/*'),*R.glob('reports/*')]
  with zipfile.ZipFile(archive,'w',compression=zipfile.ZIP_DEFLATED,compresslevel=6) as z:
   for p in paths:

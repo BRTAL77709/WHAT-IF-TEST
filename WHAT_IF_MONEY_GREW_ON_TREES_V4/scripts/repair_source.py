@@ -27,7 +27,7 @@ for o in S.objects:
 bvh=BVHTree.FromPolygons(verts,faces)
 def floor(x,y):
  p,n,idx,d=bvh.ray_cast(Vector((float(x),float(y),.75)),Vector((0,0,-1)),1)
- return p.z if p is not None and n.z>.7 else .01
+ return max(.01,p.z) if p is not None and n.z>.7 else .01
 def heights(x,y,yaw):
  c,s=math.cos(yaw),math.sin(yaw);return [floor(x+c*dx-s*dy,y+s*dx+c*dy) for dx,dy in [(-.1,-.17),(-.1,.17),(.1,-.17),(.1,.17)]]
 # Preserve footstep/audio timing and stance anchors; solve the whole sole footprint, not just its center.
@@ -133,7 +133,10 @@ for k in range(N):
   for name in [r['head'],r['hair'],*r['eyes']]:patch(name,k,newhp+tilt@(v(name,k)-hp),(tilt@q(name,k)).to_euler())
  # Keep the harvester and bill visible during approach; preserve working framing after arrival.
  if 8<=t<16:
-  u=sm((t-8)/3);cp=mix((2.6,-6.5,2.6),v(S.camera.name,k),u);target=mix((2.6,-2.7,1.3),(1.15,-2,1.6),u);patch(S.camera.name,k,cp,(target-cp).to_track_quat('-Z','Y').to_euler())
+  u=sm((t-8)/3);cp=mix((2.6,-6.5,2.6),v(S.camera.name,k),u);target=mix((2.6,-2.7,1.3),(1.15,-2,1.6),u)
+  if t>13.2:
+   follow=sm((t-13.2)/.8);subject=v(rigs[1]['root'],k);cp=mix(cp,subject+Vector((1.8,-3.4,2.3)),follow);target=mix(target,subject+Vector((0,.15,1.3)),follow)
+  patch(S.camera.name,k,cp,(target-cp).to_track_quat('-Z','Y').to_euler())
  if 68<=t<69.2:
   # The original sold-out display bay, in a physically clear camera position behind the counter.
   cp=Vector((-1.8,-12.25,.65));target=Vector((-1.8,-11.65,.55));patch(S.camera.name,k,cp,(target-cp).to_track_quat('-Z','Y').to_euler())
