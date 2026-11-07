@@ -1,0 +1,55 @@
+{
+  "maximum_evaluated_joint_gap_m": 1.9304912973286683e-06,
+  "worst": [
+    {
+      "frame": 1,
+      "part": "V2 Shin.004",
+      "error_m": 9.555351461101412e-07
+    },
+    {
+      "frame": 1,
+      "part": "V2 Shin.005",
+      "error_m": 9.578560996048568e-07
+    },
+    {
+      "frame": 2,
+      "part": "V2 Shin.005",
+      "error_m": 9.579719996717828e-07
+    },
+    {
+      "frame": 4,
+      "part": "V2 Forearm.004",
+      "error_m": 9.610960183499514e-07
+    },
+    {
+      "frame": 4,
+      "part": "V2 Shin.005",
+      "error_m": 1.9085124309760767e-06
+    },
+    {
+      "frame": 9,
+      "part": "V2 Forearm.004",
+      "error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 9,
+      "part": "V2 Forearm.005",
+      "error_m": 1.9111283856433717e-06
+    },
+    {
+      "frame": 32,
+      "part": "V2 Forearm.004",
+      "error_m": 1.9147847180615676e-06
+    },
+    {
+      "frame": 62,
+      "part": "V2 Shin.005",
+      "error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 66,
+      "part": "V2 Shin.005",
+      "error_m": 1.9304912973286683e-06
+    }
+  ]
+}

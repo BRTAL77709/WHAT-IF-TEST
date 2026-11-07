@@ -1,0 +1,14 @@
+{
+  "path": "/workspace/WHAT-IF-TEST/V2/final/WHAT_IF_MONEY_GREW_ON_TREES_V2_DOWNLOAD.mp4",
+  "bytes": 18751354,
+  "sha256": "37f04ab73bda65fd33a294f86cb55bd557a52fd8f474f3a29217e23cd460b654",
+  "frames": 2340,
+  "duration": 78.0,
+  "full_decode": "passed",
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "stereo_audio": true
+}

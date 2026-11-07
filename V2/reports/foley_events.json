@@ -1,0 +1,413 @@
+[
+  {
+    "time": 0.4,
+    "type": "paper/leaf rustle",
+    "motivation": "bill growth"
+  },
+  {
+    "time": 1.1,
+    "type": "paper/leaf rustle",
+    "motivation": "bill unfolding"
+  },
+  {
+    "time": 5.5,
+    "type": "paper/leaf rustle",
+    "motivation": "hero grasps and plucks bill"
+  },
+  {
+    "time": 6.1,
+    "type": "paper/leaf rustle",
+    "motivation": "hero carries bill"
+  },
+  {
+    "time": 12.2,
+    "type": "paper/leaf rustle",
+    "motivation": "second bill pluck"
+  },
+  {
+    "time": 28.5,
+    "type": "paper/leaf rustle",
+    "motivation": "cash at market"
+  },
+  {
+    "time": 30.4,
+    "type": "paper/leaf rustle",
+    "motivation": "bread handoff at counter"
+  },
+  {
+    "time": 49,
+    "type": "paper/leaf rustle",
+    "motivation": "offering cash stack"
+  },
+  {
+    "time": 73,
+    "type": "paper/leaf rustle",
+    "motivation": "falling cash at original tree"
+  },
+  {
+    "time": 42,
+    "type": "wood/card flip + price tick",
+    "motivation": "visible bread price changes"
+  },
+  {
+    "time": 44,
+    "type": "wood/card flip + price tick",
+    "motivation": "visible bread price changes"
+  },
+  {
+    "time": 46,
+    "type": "wood/card flip + price tick",
+    "motivation": "visible bread price changes"
+  },
+  {
+    "time": 2.5,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 2.7333333333333334,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 2.966666666666667,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 3.2,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 6.133333333333334,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 6.666666666666667,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 7.066666666666666,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 7.5,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 8.8,
+    "type": "footstep",
+    "actor": 1,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 9.2,
+    "type": "footstep",
+    "actor": 1,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 9.566666666666666,
+    "type": "footstep",
+    "actor": 1,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 9.933333333333334,
+    "type": "footstep",
+    "actor": 1,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 10.333333333333334,
+    "type": "footstep",
+    "actor": 1,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 13.466666666666667,
+    "type": "footstep",
+    "actor": 1,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 14.033333333333333,
+    "type": "footstep",
+    "actor": 1,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 14.433333333333334,
+    "type": "footstep",
+    "actor": 1,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 14.8,
+    "type": "footstep",
+    "actor": 1,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 15.133333333333333,
+    "type": "footstep",
+    "actor": 1,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 15.5,
+    "type": "footstep",
+    "actor": 1,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 15.866666666666667,
+    "type": "footstep",
+    "actor": 1,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 24.133333333333333,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 24.366666666666667,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 24.6,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 24.8,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 25.0,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 25.2,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 25.366666666666667,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 25.566666666666666,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 25.733333333333334,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 25.933333333333334,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 26.133333333333333,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 26.333333333333332,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 26.533333333333335,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 26.766666666666666,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 27.033333333333335,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 27.366666666666667,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 28.2,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 28.5,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 28.7,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 28.9,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 29.066666666666666,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 29.233333333333334,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 29.433333333333334,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 29.666666666666668,
+    "type": "footstep",
+    "actor": 0,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 55.2,
+    "type": "footstep",
+    "actor": 3,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 57.53333333333333,
+    "type": "footstep",
+    "actor": 4,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 59.56666666666667,
+    "type": "footstep",
+    "actor": 3,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 60.13333333333333,
+    "type": "footstep",
+    "actor": 3,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 60.56666666666667,
+    "type": "footstep",
+    "actor": 3,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 61.03333333333333,
+    "type": "footstep",
+    "actor": 3,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 61.666666666666664,
+    "type": "footstep",
+    "actor": 3,
+    "motivation": "stance onset in animation"
+  },
+  {
+    "time": 16.2,
+    "type": "subtle transition",
+    "motivation": "editorial cut"
+  },
+  {
+    "time": 19.5,
+    "type": "subtle transition",
+    "motivation": "editorial cut"
+  },
+  {
+    "time": 24,
+    "type": "subtle transition",
+    "motivation": "editorial cut"
+  },
+  {
+    "time": 32,
+    "type": "subtle transition",
+    "motivation": "editorial cut"
+  },
+  {
+    "time": 48,
+    "type": "subtle transition",
+    "motivation": "editorial cut"
+  },
+  {
+    "time": 56,
+    "type": "subtle transition",
+    "motivation": "editorial cut"
+  },
+  {
+    "time": 64,
+    "type": "subtle transition",
+    "motivation": "editorial cut"
+  },
+  {
+    "time": 72,
+    "type": "subtle transition",
+    "motivation": "editorial cut"
+  },
+  {
+    "time": 57.2,
+    "type": "paper/leaf rustle",
+    "motivation": "farmer picks produce"
+  }
+]

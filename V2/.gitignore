@@ -1,0 +1,8 @@
+.venv/
+.cache/
+models/
+renders/
+blender/
+audio/
+test/
+reports/*.log

@@ -1,6 +1,6 @@
 # WHAT-IF-TEST V2 — Production brief and acceptance criteria
 
-Status: V2 planning started; no V2 render or audio mix has been generated yet.
+Status: V2 rendered and technically validated; human listening review remains unverified. See V2/reports/QUALITY_CONTROL.md.
 Branch: `what-if-v2-production` (keep `main` and the V1 download intact).
 
 ## Goal
@@ -52,4 +52,4 @@ Timing is a starting guide, not a mandate to truncate sentences. Keep a coherent
 ## Current progress
 - V1 video is confirmed in `main/downloads/WHAT_IF_MONEY_GREW_ON_TREES.mp4`.
 - V2 development branch created.
-- This production brief is the initial committed work; video generation has not yet run.
+- The eight-second test and full V2 render are complete; neural narration, scene-specific sound and technical QC are generated in V2/.

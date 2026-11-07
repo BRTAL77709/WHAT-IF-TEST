@@ -1,0 +1,41 @@
+{
+  "file": "/workspace/WHAT-IF-TEST/V2/test/V2_MOTION_AUDIO_TEST_8s.mp4",
+  "bytes": 5705218,
+  "duration_seconds": 8.0,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 240,
+  "audio": "stereo AAC 48kHz",
+  "full_decode": "passed",
+  "black_detection_segments": [],
+  "freeze_detection_starts": [],
+  "decoded_sample_peak": 0.8397510647773743,
+  "integrated_lufs": -16.7,
+  "true_peak_dbfs": -1.5,
+  "max_stance_floor_error_m": 5.245208767323817e-09,
+  "max_reach_error_m": 0,
+  "maximum_evaluated_joint_gap_m": 1.9304912973286683e-06,
+  "actor_root_path_distances_m": {
+    "0": 4.26077991665849,
+    "1": 0.0,
+    "2": 0.0,
+    "3": 0.0,
+    "4": 0.0,
+    "5": 0.0,
+    "6": 0.0
+  },
+  "narration_engine": "local Kokoro ONNX af_heart",
+  "narration_speed": 1.0,
+  "forced_time_stretch": false,
+  "subtitles": "Timed from individually synthesized actual speech segments",
+  "original_score_and_sounds": true,
+  "sha256": "27e21517dde0b5af91da154254e0e34b2947bed7310fe00ab35c795de5a7e30c",
+  "subjective_listening": "Not performed: this tool session has no audio playback/perception tool. Technical waveform, clipping, loudness and sync checks performed; human listening remains an unmet acceptance criterion.",
+  "other_limits": [
+    "Stylized analytic two-segment IK, not a full biomechanical or cloth simulation.",
+    "Workbench studio shadows and perspective cameras on CPU, not path-traced depth of field."
+  ]
+}

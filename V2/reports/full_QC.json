@@ -1,0 +1,50 @@
+{
+  "file": "/workspace/WHAT-IF-TEST/V2/final/WHAT_IF_MONEY_GREW_ON_TREES_V2.mp4",
+  "bytes": 45914979,
+  "duration_seconds": 78.0,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 2340,
+  "audio": "stereo AAC 48kHz",
+  "full_decode": "passed",
+  "black_detection_segments": [],
+  "freeze_detection_starts": [
+    "58.7"
+  ],
+  "reviewed_low_motion": [
+    {
+      "start": 58.7,
+      "end": 61.133333,
+      "assessment": "Static-camera builder shot: global detector flagged localized motion. Independent decoded-frame comparisons show >15,000 pixels changing by >12 levels in each sampled interval; see builder_motion_audit.json. Low motion, not a repeated frozen frame."
+    }
+  ],
+  "decoded_sample_peak": 0.8437229990959167,
+  "integrated_lufs": -17.1,
+  "true_peak_dbfs": -1.5,
+  "max_stance_floor_error_m": 1.025199886095507e-08,
+  "max_reach_error_m": 0,
+  "maximum_evaluated_joint_gap_m": 2.8372061351664555e-05,
+  "actor_root_path_distances_m": {
+    "0": 25.820459712717057,
+    "1": 21.1069589450291,
+    "2": 2.5217430338244773,
+    "3": 3.0803589315909754,
+    "4": 2.548501160779338,
+    "5": 41.39853312206999,
+    "6": 20.454727771137527
+  },
+  "narration_engine": "local Kokoro ONNX af_heart",
+  "narration_speed": 1.0,
+  "forced_time_stretch": false,
+  "subtitles": "Timed from individually synthesized actual speech segments",
+  "original_score_and_sounds": true,
+  "sha256": "329e114314980aa9a5c0db0ca88db6c84e8d1996da16bc493f0f5d4793fa64ce",
+  "subjective_listening": "Not performed: this tool session has no audio playback/perception tool. Technical waveform, clipping, loudness and sync checks performed; human listening remains an unmet acceptance criterion.",
+  "other_limits": [
+    "Stylized analytic two-segment IK, not a full biomechanical or cloth simulation.",
+    "Workbench studio shadows and perspective cameras on CPU, not path-traced depth of field."
+  ]
+}

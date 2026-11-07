@@ -1,0 +1,35 @@
+[
+  {
+    "pair": 0,
+    "changed_pixels_over_12": 20064,
+    "bbox": [
+      81,
+      148,
+      1079,
+      1919
+    ],
+    "mean_absolute_pixel_difference": 0.3491994598765432
+  },
+  {
+    "pair": 1,
+    "changed_pixels_over_12": 20363,
+    "bbox": [
+      226,
+      392,
+      1071,
+      1919
+    ],
+    "mean_absolute_pixel_difference": 0.36038740997942387
+  },
+  {
+    "pair": 2,
+    "changed_pixels_over_12": 24141,
+    "bbox": [
+      34,
+      0,
+      1079,
+      1919
+    ],
+    "mean_absolute_pixel_difference": 0.42400511188271606
+  }
+]

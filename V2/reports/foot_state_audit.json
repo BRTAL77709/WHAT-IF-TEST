@@ -1,0 +1,33 @@
+{
+  "original_metric_misclassified_samples": [
+    {
+      "frame": 932,
+      "actor": 1,
+      "side": -1,
+      "height_above_floor_m": 0.14284974050521848,
+      "phase": 0.7480252393991904,
+      "stopped": false,
+      "speed": 0.028698597227673314
+    },
+    {
+      "frame": 963,
+      "actor": 6,
+      "side": -1,
+      "height_above_floor_m": 0.1107534737586975,
+      "phase": 0.8960979210508562,
+      "stopped": false,
+      "speed": 0.02985101075455574
+    },
+    {
+      "frame": 1324,
+      "actor": 2,
+      "side": 1,
+      "height_above_floor_m": 0.03895887446403502,
+      "phase": 0.8728306046173047,
+      "stopped": false,
+      "speed": 0.021315366016717987
+    }
+  ],
+  "correctly_planted_max_error": 1.025199886095507e-08,
+  "planted_count": 25692
+}
