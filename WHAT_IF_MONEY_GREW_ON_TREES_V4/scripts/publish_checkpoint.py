@@ -21,4 +21,7 @@ if '--blend' in sys.argv:
   while block:=f.read(19*1024*1024):
    i+=1;part=R/'recovery'/(archive.name+f'.part{i:03d}');part.write_bytes(block);records.append(upload(part,'recovery/v4-validated-source/'+part.name))
  index=R/'recovery/SOURCE_BACKUP_INDEX.json';index.write_text(json.dumps({'file':archive.name,'bytes':archive.stat().st_size,'sha256':hashlib.sha256(archive.read_bytes()).hexdigest(),'parts':records},indent=2));upload(index,'recovery/v4-validated-source/'+index.name)
-(R/'reports/github_source_checkpoint.json').write_text(json.dumps({'branch':BRANCH,'commit':head,'source_files':len(files),'validated_blend_backup_verified':'--blend' in sys.argv},indent=2));print('V4_SOURCE_CHECKPOINT_SAVED',head,flush=True)
+previous=R/'reports/github_source_checkpoint.json';old=json.loads(previous.read_text()) if previous.exists() else {};scene_sha=hashlib.sha256((R/'blender/WHAT_IF_MONEY_GREW_ON_TREES_V4.blend').read_bytes()).hexdigest();backup_valid='--blend' in sys.argv
+if not backup_valid and old.get('validated_blend_backup_verified'):
+ with zipfile.ZipFile(R/'recovery/V4_VALIDATED_SOURCE.zip') as z:backup_valid=hashlib.sha256(z.read(R.name+'/blender/WHAT_IF_MONEY_GREW_ON_TREES_V4.blend')).hexdigest()==scene_sha
+previous.write_text(json.dumps({'branch':BRANCH,'commit':head,'source_files':len(files),'source_blend_sha256':scene_sha,'validated_blend_backup_verified':backup_valid},indent=2));print('V4_SOURCE_CHECKPOINT_SAVED',head,flush=True)
