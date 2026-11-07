@@ -1,0 +1,114 @@
+{
+  "changes": [
+    {
+      "scene": 1,
+      "before": {
+        "duration": "8.066667",
+        "nb_frames": "242"
+      },
+      "after": {
+        "duration": "8.000000",
+        "nb_frames": "240"
+      },
+      "method": "Exact video packet count, then mux original AAC; no rendering or video re-encoding."
+    },
+    {
+      "scene": 2,
+      "before": {
+        "duration": "8.066667",
+        "nb_frames": "242"
+      },
+      "after": {
+        "duration": "8.000000",
+        "nb_frames": "240"
+      },
+      "method": "Exact video packet count, then mux original AAC; no rendering or video re-encoding."
+    },
+    {
+      "scene": 3,
+      "before": {
+        "duration": "8.066667",
+        "nb_frames": "242"
+      },
+      "after": {
+        "duration": "8.000000",
+        "nb_frames": "240"
+      },
+      "method": "Exact video packet count, then mux original AAC; no rendering or video re-encoding."
+    },
+    {
+      "scene": 4,
+      "before": {
+        "duration": "8.066667",
+        "nb_frames": "242"
+      },
+      "after": {
+        "duration": "8.000000",
+        "nb_frames": "240"
+      },
+      "method": "Exact video packet count, then mux original AAC; no rendering or video re-encoding."
+    },
+    {
+      "scene": 5,
+      "before": {
+        "duration": "8.066667",
+        "nb_frames": "242"
+      },
+      "after": {
+        "duration": "8.000000",
+        "nb_frames": "240"
+      },
+      "method": "Exact video packet count, then mux original AAC; no rendering or video re-encoding."
+    },
+    {
+      "scene": 6,
+      "before": {
+        "duration": "8.066667",
+        "nb_frames": "242"
+      },
+      "after": {
+        "duration": "8.000000",
+        "nb_frames": "240"
+      },
+      "method": "Exact video packet count, then mux original AAC; no rendering or video re-encoding."
+    },
+    {
+      "scene": 7,
+      "before": {
+        "duration": "8.066667",
+        "nb_frames": "242"
+      },
+      "after": {
+        "duration": "8.000000",
+        "nb_frames": "240"
+      },
+      "method": "Exact video packet count, then mux original AAC; no rendering or video re-encoding."
+    },
+    {
+      "scene": 8,
+      "before": {
+        "duration": "8.066667",
+        "nb_frames": "242"
+      },
+      "after": {
+        "duration": "8.000000",
+        "nb_frames": "240"
+      },
+      "method": "Exact video packet count, then mux original AAC; no rendering or video re-encoding."
+    },
+    {
+      "scene": 9,
+      "before": {
+        "duration": "8.066667",
+        "nb_frames": "242"
+      },
+      "after": {
+        "duration": "8.000000",
+        "nb_frames": "240"
+      },
+      "method": "Exact video packet count, then mux original AAC; no rendering or video re-encoding."
+    }
+  ],
+  "master_unchanged_sha256": "1f758e17b4c5bea1a53646d42744fba2b8d3e621aeaa069ce6188d963d8f3e44",
+  "rendered_frames_unchanged": true
+}

@@ -1,6 +1,6 @@
 # WHAT IF MONEY GREW ON TREES — V3 motion repair
 
-Status: production in progress. Final status is recorded in `reports/final_validation.json`; no user approval is claimed.
+Status: rendered and technically checked; ARTISTIC REVIEW REQUIRED. Final status is recorded in `reports/final_validation.json`; no user approval is claimed.
 
 This directory repairs the actual V2 Blender scene. It does not construct replacement buildings, trees, characters, materials, typography or a new soundtrack. V1 and V2 files are protected by SHA-256 manifests. The existing 78-second script, narration, music, Foley, subtitles and price sequence remain the source.
 
@@ -38,3 +38,11 @@ The editable final blend already contains the baked repairs and does not require
 `final/WHAT_IF_MONEY_GREW_ON_TREES_V3.mp4` is the native H.264/yuv420p master, with stream-copied original AAC. `scenes/` contains ten individual source-quality exports. `audio/V2_ORIGINAL_SOUNDTRACK.m4a` is the preserved soundtrack; `subtitles/` contains unchanged subtitle/narration source. `comparisons/` holds continuous V2/V3 comparison clips and consecutive-frame evidence.
 
 Read `reports/QUALITY_CONTROL.md`, `scene_reports.json`, `scene_validation.json`, `frame_diagnostics.csv`, and `pixel_frame_diagnostics.csv` for measurements and limitations. TECHNICAL PASS applies to the stated checks only. ARTISTIC REVIEW REQUIRED remains distinct from USER APPROVED. Nearest-surface/root-clearance screening does not certify every swept mesh collision or every artistic pixel. No human listening or continuous-playback acceptance is claimed.
+
+## Recovery without rerendering
+
+The restored checkpoint already contains all 2,340 verified frames and the final master. Recovery repaired only nine invalid individual scene exports using `scripts/repair_scene_exports.py`, then resumed QC with `scripts/qa.py --resume-master-qc`. No completed render, V1/V2 file, voice or soundtrack was regenerated. Durable backup indexes are in `recovery/v3-restored-checkpoint/` on the V3 branch.
+
+## Verified downloads
+
+See [DOWNLOADS.md](DOWNLOADS.md) for the complete film, full-quality master recovery, ten scene exports, editable Blender source, comparisons and persistent recovery backups.

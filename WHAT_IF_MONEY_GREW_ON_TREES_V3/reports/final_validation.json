@@ -1,0 +1,286 @@
+{
+  "status": "TECHNICAL PASS",
+  "artistic_status": "ARTISTIC REVIEW REQUIRED",
+  "user_approved": false,
+  "path": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/final/WHAT_IF_MONEY_GREW_ON_TREES_V3.mp4",
+  "bytes": 63804547,
+  "sha256": "1f758e17b4c5bea1a53646d42744fba2b8d3e621aeaa069ce6188d963d8f3e44",
+  "duration": 78.0,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 2340,
+  "full_decode": "PASS",
+  "audio_packet_sha256": "SHA256=d36ffca59b9b5446ddf6fbcc880937f8ccac90a141c495eb170988c2f19cd4dd",
+  "V2_audio_exact_bitstream_match": true,
+  "V1_V2_protected_files_unchanged": true,
+  "pixel_QC_checkpoint_reused": true,
+  "max_identical_consecutive_frames": 0,
+  "unexpected_black_frames": [],
+  "audible_footstep_alignment": [
+    {
+      "time": 2.5,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 2.7333333333333334,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 2.966666666666667,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 3.2,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 6.133333333333334,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 6.666666666666667,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 7.066666666666666,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 7.5,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 8.8,
+      "actor": 1,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 9.2,
+      "actor": 1,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 9.566666666666666,
+      "actor": 1,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 9.933333333333334,
+      "actor": 1,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 10.333333333333334,
+      "actor": 1,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 13.466666666666667,
+      "actor": 1,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 14.033333333333333,
+      "actor": 1,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 14.433333333333334,
+      "actor": 1,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 14.8,
+      "actor": 1,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 15.133333333333333,
+      "actor": 1,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 15.5,
+      "actor": 1,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 15.866666666666667,
+      "actor": 1,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 24.133333333333333,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 24.366666666666667,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 24.6,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 24.8,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 25.0,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 25.2,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 25.366666666666667,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 25.566666666666666,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 25.733333333333334,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 25.933333333333334,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 26.133333333333333,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 26.333333333333332,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 26.533333333333335,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 26.766666666666666,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 27.033333333333335,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 27.366666666666667,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 28.2,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 28.5,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 28.7,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 28.9,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 29.066666666666666,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 29.233333333333334,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 29.433333333333334,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 29.666666666666668,
+      "actor": 0,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 55.2,
+      "actor": 3,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 57.53333333333333,
+      "actor": 4,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 59.56666666666667,
+      "actor": 3,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 60.13333333333333,
+      "actor": 3,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 60.56666666666667,
+      "actor": 3,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 61.03333333333333,
+      "actor": 3,
+      "landing_error_seconds": 0.0
+    },
+    {
+      "time": 61.666666666666664,
+      "actor": 3,
+      "landing_error_seconds": 0.0
+    }
+  ],
+  "max_audible_footstep_error_seconds": 0.0,
+  "limitations": [
+    "No claim of exhaustive every-pixel artistic acceptance or full swept mesh collision proof.",
+    "Human continuous-motion and soundtrack listening acceptance remain unverified. No user approval is claimed.",
+    "Existing Workbench FXAA, lighting and materials retained; no path tracing or added motion blur.",
+    "Shelf inventory props are kept physically present instead of disappearing by scale changes; the existing narration, price sequence and 78-second story are preserved."
+  ]
+}

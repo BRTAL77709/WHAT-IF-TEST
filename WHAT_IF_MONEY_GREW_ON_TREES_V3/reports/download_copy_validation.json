@@ -1,0 +1,16 @@
+{
+  "path": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/final/WHAT_IF_MONEY_GREW_ON_TREES_V3_DOWNLOAD.mp4",
+  "bytes": 19820517,
+  "sha256": "a61b14bc672683a04c075a409a770c61cb3b3ef575e79709a66a7d6a779204bb",
+  "duration": 78.0,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 2340,
+  "AAC_bitstream_unchanged": true,
+  "full_decode": "Passed in publish_delivery.py before upload",
+  "native_master_unchanged_sha256": "1f758e17b4c5bea1a53646d42744fba2b8d3e621aeaa069ce6188d963d8f3e44",
+  "reason": "GitHub Git Blobs API rejected the native 63.8MB file with HTTP 422 input too large. Native master is retained and backed up in verified parts."
+}

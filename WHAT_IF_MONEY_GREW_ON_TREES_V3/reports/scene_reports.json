@@ -1,0 +1,421 @@
+[
+  {
+    "scene_id": 1,
+    "status": "TECHNICAL PASS",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "user_approved": false,
+    "source_blender": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend",
+    "animation_script": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/repair.py",
+    "render_command": "blender -b /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend -t 1 --python /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/render.py -- 1 240",
+    "file": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scenes/SCENE_01_V3.mp4",
+    "duration": 8.0,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "frames": 240,
+    "bytes": 6812952,
+    "audio_status": "Original V2 AAC packets stream-copied; scene boundaries may retain one AAC frame of packet alignment. Full-film stream hash is exact.",
+    "character_motion": "All-frame fixed-length IK, root, stance and contact checks: scene_validation.json and frame_diagnostics.csv",
+    "collision_camera_findings": "All-frame static-surface proximity and root separation screening in scene_validation.json; full swept mesh collision proof is not available.",
+    "lighting_findings": "V2 lighting and materials preserved; pixel-level temporal screening performed.",
+    "frame_findings": "Consecutive-frame differences and critical-action optical flow are recorded.",
+    "remaining_limitations": [
+      "ARTISTIC REVIEW REQUIRED: automated motion/pixel screening cannot certify every physical contact, self-collision, silhouette or performance."
+    ],
+    "root_path_distances_m": {
+      "0": 4.7127299308776855,
+      "1": 0.016265351325273514,
+      "2": 0.01600823551416397,
+      "3": 0.016022533178329468,
+      "4": 0.016013935208320618,
+      "5": 0.01600562036037445,
+      "6": 0.016022533178329468
+    },
+    "minimum_actor_root_separation_m": 1.4142135381698608,
+    "max_stance_drift_per_frame_m": 1.7881393432617188e-07,
+    "max_measured_prop_contact_error_m": 0,
+    "prop_contacts_sampled": [],
+    "camera_proximity_flags": 0,
+    "body_proximity_flags": 0
+  },
+  {
+    "scene_id": 2,
+    "status": "TECHNICAL PASS",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "user_approved": false,
+    "source_blender": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend",
+    "animation_script": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/repair.py",
+    "render_command": "blender -b /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend -t 1 --python /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/render.py -- 241 480",
+    "file": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scenes/SCENE_02_V3.mp4",
+    "duration": 8.0,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "frames": 240,
+    "bytes": 6892327,
+    "audio_status": "Original V2 AAC packets stream-copied; scene boundaries may retain one AAC frame of packet alignment. Full-film stream hash is exact.",
+    "character_motion": "All-frame fixed-length IK, root, stance and contact checks: scene_validation.json and frame_diagnostics.csv",
+    "collision_camera_findings": "All-frame static-surface proximity and root separation screening in scene_validation.json; full swept mesh collision proof is not available.",
+    "lighting_findings": "V2 lighting and materials preserved; pixel-level temporal screening performed.",
+    "frame_findings": "Consecutive-frame differences and critical-action optical flow are recorded.",
+    "remaining_limitations": [
+      "ARTISTIC REVIEW REQUIRED: automated motion/pixel screening cannot certify every physical contact, self-collision, silhouette or performance."
+    ],
+    "root_path_distances_m": {
+      "0": 2.169872522354126,
+      "1": 6.34248685836792,
+      "2": 0.016010262072086334,
+      "3": 0.01602327823638916,
+      "4": 0.016013219952583313,
+      "5": 4.218756675720215,
+      "6": 2.714817762374878
+    },
+    "minimum_actor_root_separation_m": 0.6823864579200745,
+    "max_stance_drift_per_frame_m": 2.384185791015625e-07,
+    "max_measured_prop_contact_error_m": 0,
+    "prop_contacts_sampled": [],
+    "camera_proximity_flags": 0,
+    "body_proximity_flags": 0
+  },
+  {
+    "scene_id": 3,
+    "status": "TECHNICAL PASS",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "user_approved": false,
+    "source_blender": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend",
+    "animation_script": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/repair.py",
+    "render_command": "blender -b /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend -t 1 --python /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/render.py -- 481 720",
+    "file": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scenes/SCENE_03_V3.mp4",
+    "duration": 8.0,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "frames": 240,
+    "bytes": 9094475,
+    "audio_status": "Original V2 AAC packets stream-copied; scene boundaries may retain one AAC frame of packet alignment. Full-film stream hash is exact.",
+    "character_motion": "All-frame fixed-length IK, root, stance and contact checks: scene_validation.json and frame_diagnostics.csv",
+    "collision_camera_findings": "All-frame static-surface proximity and root separation screening in scene_validation.json; full swept mesh collision proof is not available.",
+    "lighting_findings": "V2 lighting and materials preserved; pixel-level temporal screening performed.",
+    "frame_findings": "Consecutive-frame differences and critical-action optical flow are recorded.",
+    "remaining_limitations": [
+      "ARTISTIC REVIEW REQUIRED: automated motion/pixel screening cannot certify every physical contact, self-collision, silhouette or performance."
+    ],
+    "root_path_distances_m": {
+      "0": 8.315912246704102,
+      "1": 0.830086886882782,
+      "2": 0.016011960804462433,
+      "3": 0.016023561358451843,
+      "4": 0.016012147068977356,
+      "5": 7.5174174308776855,
+      "6": 3.823958396911621
+    },
+    "minimum_actor_root_separation_m": 0.7559097409248352,
+    "max_stance_drift_per_frame_m": 1.7881393432617188e-07,
+    "max_measured_prop_contact_error_m": 0,
+    "prop_contacts_sampled": [],
+    "camera_proximity_flags": 0,
+    "body_proximity_flags": 0
+  },
+  {
+    "scene_id": 4,
+    "status": "TECHNICAL PASS",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "user_approved": false,
+    "source_blender": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend",
+    "animation_script": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/repair.py",
+    "render_command": "blender -b /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend -t 1 --python /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/render.py -- 721 960",
+    "file": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scenes/SCENE_04_V3.mp4",
+    "duration": 8.0,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "frames": 240,
+    "bytes": 7310227,
+    "audio_status": "Original V2 AAC packets stream-copied; scene boundaries may retain one AAC frame of packet alignment. Full-film stream hash is exact.",
+    "character_motion": "All-frame fixed-length IK, root, stance and contact checks: scene_validation.json and frame_diagnostics.csv",
+    "collision_camera_findings": "All-frame static-surface proximity and root separation screening in scene_validation.json; full swept mesh collision proof is not available.",
+    "lighting_findings": "V2 lighting and materials preserved; pixel-level temporal screening performed.",
+    "frame_findings": "Consecutive-frame differences and critical-action optical flow are recorded.",
+    "remaining_limitations": [
+      "ARTISTIC REVIEW REQUIRED: automated motion/pixel screening cannot certify every physical contact, self-collision, silhouette or performance."
+    ],
+    "root_path_distances_m": {
+      "0": 12.30525016784668,
+      "1": 10.770751953125,
+      "2": 2.769956111907959,
+      "3": 0.016023293137550354,
+      "4": 0.016010478138923645,
+      "5": 13.820473670959473,
+      "6": 8.880495071411133
+    },
+    "minimum_actor_root_separation_m": 1.0168824195861816,
+    "max_stance_drift_per_frame_m": 1.7881393432617188e-07,
+    "max_measured_prop_contact_error_m": 0.0,
+    "prop_contacts_sampled": [
+      "buyer_loaf",
+      "seller_loaf"
+    ],
+    "camera_proximity_flags": 0,
+    "body_proximity_flags": 0
+  },
+  {
+    "scene_id": 5,
+    "status": "TECHNICAL PASS",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "user_approved": false,
+    "source_blender": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend",
+    "animation_script": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/repair.py",
+    "render_command": "blender -b /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend -t 1 --python /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/render.py -- 961 1200",
+    "file": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scenes/SCENE_05_V3.mp4",
+    "duration": 8.0,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "frames": 240,
+    "bytes": 5708592,
+    "audio_status": "Original V2 AAC packets stream-copied; scene boundaries may retain one AAC frame of packet alignment. Full-film stream hash is exact.",
+    "character_motion": "All-frame fixed-length IK, root, stance and contact checks: scene_validation.json and frame_diagnostics.csv",
+    "collision_camera_findings": "All-frame static-surface proximity and root separation screening in scene_validation.json; full swept mesh collision proof is not available.",
+    "lighting_findings": "V2 lighting and materials preserved; pixel-level temporal screening performed.",
+    "frame_findings": "Consecutive-frame differences and critical-action optical flow are recorded.",
+    "remaining_limitations": [
+      "ARTISTIC REVIEW REQUIRED: automated motion/pixel screening cannot certify every physical contact, self-collision, silhouette or performance."
+    ],
+    "root_path_distances_m": {
+      "0": 0.016022801399230957,
+      "1": 4.382976055145264,
+      "2": 1.009852647781372,
+      "3": 0.01602289080619812,
+      "4": 0.016008779406547546,
+      "5": 3.769528388977051,
+      "6": 4.494506359100342
+    },
+    "minimum_actor_root_separation_m": 0.7351282835006714,
+    "max_stance_drift_per_frame_m": 1.7881393432617188e-07,
+    "max_measured_prop_contact_error_m": 0.0,
+    "prop_contacts_sampled": [
+      "buyer_loaf"
+    ],
+    "camera_proximity_flags": 0,
+    "body_proximity_flags": 0
+  },
+  {
+    "scene_id": 6,
+    "status": "TECHNICAL PASS",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "user_approved": false,
+    "source_blender": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend",
+    "animation_script": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/repair.py",
+    "render_command": "blender -b /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend -t 1 --python /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/render.py -- 1201 1440",
+    "file": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scenes/SCENE_06_V3.mp4",
+    "duration": 8.0,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "frames": 240,
+    "bytes": 5447234,
+    "audio_status": "Original V2 AAC packets stream-copied; scene boundaries may retain one AAC frame of packet alignment. Full-film stream hash is exact.",
+    "character_motion": "All-frame fixed-length IK, root, stance and contact checks: scene_validation.json and frame_diagnostics.csv",
+    "collision_camera_findings": "All-frame static-surface proximity and root separation screening in scene_validation.json; full swept mesh collision proof is not available.",
+    "lighting_findings": "V2 lighting and materials preserved; pixel-level temporal screening performed.",
+    "frame_findings": "Consecutive-frame differences and critical-action optical flow are recorded.",
+    "remaining_limitations": [
+      "ARTISTIC REVIEW REQUIRED: automated motion/pixel screening cannot certify every physical contact, self-collision, silhouette or performance."
+    ],
+    "root_path_distances_m": {
+      "0": 0.01602202281355858,
+      "1": 0.016004187986254692,
+      "2": 0.3690511882305145,
+      "3": 0.0160226970911026,
+      "4": 0.016007333993911743,
+      "5": 2.9631402492523193,
+      "6": 2.095414876937866
+    },
+    "minimum_actor_root_separation_m": 0.9600335955619812,
+    "max_stance_drift_per_frame_m": 1.7881393432617188e-07,
+    "max_measured_prop_contact_error_m": 1.1920928955078125e-07,
+    "prop_contacts_sampled": [
+      "seller_price_sign"
+    ],
+    "camera_proximity_flags": 0,
+    "body_proximity_flags": 0
+  },
+  {
+    "scene_id": 7,
+    "status": "TECHNICAL PASS",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "user_approved": false,
+    "source_blender": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend",
+    "animation_script": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/repair.py",
+    "render_command": "blender -b /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend -t 1 --python /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/render.py -- 1441 1680",
+    "file": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scenes/SCENE_07_V3.mp4",
+    "duration": 8.0,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "frames": 240,
+    "bytes": 4367333,
+    "audio_status": "Original V2 AAC packets stream-copied; scene boundaries may retain one AAC frame of packet alignment. Full-film stream hash is exact.",
+    "character_motion": "All-frame fixed-length IK, root, stance and contact checks: scene_validation.json and frame_diagnostics.csv",
+    "collision_camera_findings": "All-frame static-surface proximity and root separation screening in scene_validation.json; full swept mesh collision proof is not available.",
+    "lighting_findings": "V2 lighting and materials preserved; pixel-level temporal screening performed.",
+    "frame_findings": "Consecutive-frame differences and critical-action optical flow are recorded.",
+    "remaining_limitations": [
+      "ARTISTIC REVIEW REQUIRED: automated motion/pixel screening cannot certify every physical contact, self-collision, silhouette or performance."
+    ],
+    "root_path_distances_m": {
+      "0": 0.016020668670535088,
+      "1": 0.016001813113689423,
+      "2": 0.016016755253076553,
+      "3": 0.9124650955200195,
+      "4": 0.15679654479026794,
+      "5": 1.6610757112503052,
+      "6": 0.016107913106679916
+    },
+    "minimum_actor_root_separation_m": 0.9999433755874634,
+    "max_stance_drift_per_frame_m": 2.384185791015625e-07,
+    "max_measured_prop_contact_error_m": 0,
+    "prop_contacts_sampled": [],
+    "camera_proximity_flags": 0,
+    "body_proximity_flags": 0
+  },
+  {
+    "scene_id": 8,
+    "status": "TECHNICAL PASS",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "user_approved": false,
+    "source_blender": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend",
+    "animation_script": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/repair.py",
+    "render_command": "blender -b /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend -t 1 --python /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/render.py -- 1681 1920",
+    "file": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scenes/SCENE_08_V3.mp4",
+    "duration": 8.0,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "frames": 240,
+    "bytes": 6355985,
+    "audio_status": "Original V2 AAC packets stream-copied; scene boundaries may retain one AAC frame of packet alignment. Full-film stream hash is exact.",
+    "character_motion": "All-frame fixed-length IK, root, stance and contact checks: scene_validation.json and frame_diagnostics.csv",
+    "collision_camera_findings": "All-frame static-surface proximity and root separation screening in scene_validation.json; full swept mesh collision proof is not available.",
+    "lighting_findings": "V2 lighting and materials preserved; pixel-level temporal screening performed.",
+    "frame_findings": "Consecutive-frame differences and critical-action optical flow are recorded.",
+    "remaining_limitations": [
+      "ARTISTIC REVIEW REQUIRED: automated motion/pixel screening cannot certify every physical contact, self-collision, silhouette or performance."
+    ],
+    "root_path_distances_m": {
+      "0": 0.01602080464363098,
+      "1": 0.016001008450984955,
+      "2": 0.016018012538552284,
+      "3": 3.048905849456787,
+      "4": 0.5703037977218628,
+      "5": 3.100907325744629,
+      "6": 0.01602250337600708
+    },
+    "minimum_actor_root_separation_m": 1.0000003576278687,
+    "max_stance_drift_per_frame_m": 1.7881393432617188e-07,
+    "max_measured_prop_contact_error_m": 5.960464477539063e-08,
+    "prop_contacts_sampled": [
+      "farmer_crop"
+    ],
+    "camera_proximity_flags": 0,
+    "body_proximity_flags": 0
+  },
+  {
+    "scene_id": 9,
+    "status": "TECHNICAL PASS",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "user_approved": false,
+    "source_blender": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend",
+    "animation_script": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/repair.py",
+    "render_command": "blender -b /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend -t 1 --python /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/render.py -- 1921 2160",
+    "file": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scenes/SCENE_09_V3.mp4",
+    "duration": 8.0,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "frames": 240,
+    "bytes": 4496278,
+    "audio_status": "Original V2 AAC packets stream-copied; scene boundaries may retain one AAC frame of packet alignment. Full-film stream hash is exact.",
+    "character_motion": "All-frame fixed-length IK, root, stance and contact checks: scene_validation.json and frame_diagnostics.csv",
+    "collision_camera_findings": "All-frame static-surface proximity and root separation screening in scene_validation.json; full swept mesh collision proof is not available.",
+    "lighting_findings": "V2 lighting and materials preserved; pixel-level temporal screening performed.",
+    "frame_findings": "Consecutive-frame differences and critical-action optical flow are recorded.",
+    "remaining_limitations": [
+      "ARTISTIC REVIEW REQUIRED: automated motion/pixel screening cannot certify every physical contact, self-collision, silhouette or performance."
+    ],
+    "root_path_distances_m": {
+      "0": 0.01602037250995636,
+      "1": 0.015999723225831985,
+      "2": 0.016018718481063843,
+      "3": 0.037657275795936584,
+      "4": 1.0811328887939453,
+      "5": 2.895002841949463,
+      "6": 0.016022522002458572
+    },
+    "minimum_actor_root_separation_m": 1.0000003576278687,
+    "max_stance_drift_per_frame_m": 2.384185791015625e-07,
+    "max_measured_prop_contact_error_m": 0,
+    "prop_contacts_sampled": [],
+    "camera_proximity_flags": 0,
+    "body_proximity_flags": 0
+  },
+  {
+    "scene_id": 10,
+    "status": "TECHNICAL PASS",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "user_approved": false,
+    "source_blender": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend",
+    "animation_script": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/repair.py",
+    "render_command": "blender -b /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/blender/WHAT_IF_MONEY_GREW_ON_TREES_V3.blend -t 1 --python /workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scripts/render.py -- 2161 2340",
+    "file": "/workspace/WHAT-IF-TEST/WHAT_IF_MONEY_GREW_ON_TREES_V3/scenes/SCENE_10_V3.mp4",
+    "duration": 6.0,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "frames": 180,
+    "bytes": 7349201,
+    "audio_status": "Original V2 AAC packets stream-copied; scene boundaries may retain one AAC frame of packet alignment. Full-film stream hash is exact.",
+    "character_motion": "All-frame fixed-length IK, root, stance and contact checks: scene_validation.json and frame_diagnostics.csv",
+    "collision_camera_findings": "All-frame static-surface proximity and root separation screening in scene_validation.json; full swept mesh collision proof is not available.",
+    "lighting_findings": "V2 lighting and materials preserved; pixel-level temporal screening performed.",
+    "frame_findings": "Consecutive-frame differences and critical-action optical flow are recorded.",
+    "remaining_limitations": [
+      "ARTISTIC REVIEW REQUIRED: automated motion/pixel screening cannot certify every physical contact, self-collision, silhouette or performance."
+    ],
+    "root_path_distances_m": {
+      "0": 0.011992421932518482,
+      "1": 0.011998739093542099,
+      "2": 0.011992517858743668,
+      "3": 0.011992111802101135,
+      "4": 0.011997908353805542,
+      "5": 1.0183448791503906,
+      "6": 0.011991400271654129
+    },
+    "minimum_actor_root_separation_m": 1.0000003576278687,
+    "max_stance_drift_per_frame_m": 2.384185791015625e-07,
+    "max_measured_prop_contact_error_m": 0,
+    "prop_contacts_sampled": [],
+    "camera_proximity_flags": 0,
+    "body_proximity_flags": 0
+  }
+]
